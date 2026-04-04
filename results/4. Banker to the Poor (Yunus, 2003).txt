@@ -1,0 +1,244 @@
+❯ Title: Banker to the poor : micro-lending and the battle against world poverty /\ 
+\
+Abstract: The founder of the Grameen Bank relates how he developed the system of micro-credit to help eradicate poverty in countries such as Bangladesh by providing financial education and small loans to rural families.\ 
+\
+TOC: Number 20 Boxirhat Road, Chittagong -- A Bengali in America -- Back in Chittagong -- The stool makers of Jobra Village -- A pilot project is born -- Expanding beyond Jobra into Tangail -- A bank for the poor is born -- Growth and challenges for the Bank for the Poor, 1984-1990 -- Applications in other poor countries -- Applications in the United States and other wealthy countries -- Grameen in the nineties -- Beyond micro-credit : a new world of Grameen Enterprises -- Grameen Bank II -- The future.
+
+⏺ Skill(lcsh-conceptual-analysis)                                                                                                                              
+  ⎿  Successfully loaded skill                                                                                                                               
+
+⏺ Phase 1: Conceptual Analysis                                                                                                                                 
+                                                                                                                                  
+  Wilson's Four Methods                                                                                                                                        
+                                                                                                                                                               
+  Purposive: Yunus's intent is to tell the story of how he developed micro-credit and the Grameen Bank to fight poverty — both personal memoir and advocacy for
+   microfinance as a poverty eradication tool.                                                                                                                 
+                                                                                                                                                               
+  Figure-Ground: Two coequal central figures: (1) Grameen Bank as an institution — its founding, growth, and model; (2) microfinance/micro-credit as a poverty
+  alleviation tool. Muhammad Yunus is a third figure — the narrative voice and biographical subject. The ground is poverty in Bangladesh and globally.
+
+  Objective: Most frequent concepts: Grameen/Bank (TOC ch. 7, 8, 11, 12, 13 — 5 of 14 chapters), Bangladesh locations (ch. 1–6), poor/poverty (title, abstract,
+   ch. 7, 8), micro-credit (title, abstract, ch. 12), applications/expansion (ch. 9, 10).
+                                                                                                                                                               
+  Cohesion: Everything is unified by the story of how micro-credit through Grameen Bank was developed to fight poverty. Selection rule: include all events and
+  developments related to the creation, growth, and impact of the Grameen Bank's micro-lending model.
+
+  Langridge's Questions
+
+  ┌───────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐  
+  │       Question        │                                                             Answer                                                              │
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Q1: What IS it?       │ Personal experience (autobiography/memoir) combined with institutional history; Social Practice (applied development economics) │
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q2: What is it ABOUT? │ Microfinance, Grameen Bank, poverty alleviation, rural poor in Bangladesh, small loans                                          │  
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Q3: What is it FOR?   │ General educated readership; advocacy for micro-lending as poverty solution; accessible level                                   │  
+  └───────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+                                                                  
+  Identified Concepts                                                                                                                                          
+                                                                  
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │     Type      │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Discipline    │ Development economics, banking/finance, social entrepreneurship                                                                         │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Microfinance/micro-credit, poverty — developing countries, rural poor, small loans, economic development                                │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ Muhammad Yunus (person — author AND biographical subject); Grameen Bank (corporate body — central institution); Bangladesh (geographic  │
+  │               │ — primary setting); Chittagong, Jobra (specific locales); United States (ch. 10)                                                        │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ 1970s–2000s (career span); 1984–1990 (specific period in TOC)                                                                           │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Form/Genre    │ Autobiography / personal narrative                                                                                                      │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+                                                                  
+  Aboutness Statement
+
+  ▎ This autobiographical account by Muhammad Yunus, Bangladeshi economist and founder of the Grameen Bank, describes how he developed the system of           
+  micro-credit to combat poverty. The narrative traces Yunus's personal journey from Chittagong through his education in America and back to Bangladesh, where 
+  encounters with rural poverty in Jobra Village led him to pioneer small loans to the poor. The work chronicles the founding, growth, and challenges of the   
+  Grameen Bank from pilot project through expansion into developing and developed countries, its evolution through the 1990s, and diversification into Grameen 
+  Enterprises. Serves as both personal memoir and advocacy for microfinance as a tool for poverty eradication.
+
+  ---                                                                                                                                                          
+  Now applying quantitative filtering.
+                                                                                                                                                               
+⏺ Skill(lcsh-quantitative-filtering)                              
+  ⎿  Successfully loaded skill                                                                                                    
+
+⏺ Phase 2: Quantitative Filtering                                                                                                                              
+                                                                                                                                  
+  Step 1: 20% Rule Assessment                                                                                                                                  
+                                                                                                                                                               
+  14 chapters; each ≈7%. Need ~3 chapters or pervasive presence for 20%.                                                                                     
+                                                           
+  ┌─────┬───────────────────────────┬────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────┐    
+  │  #  │          Concept          │       ≥20%?        │                                           Rationale                                            │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 1   │ Microfinance /            │ YES                │ Pervades entire work; the system Yunus developed is the central subject of ch. 4–14 (79%), and │    
+  │     │ Micro-credit              │                    │  the topic the autobiographical ch. 1–3 set up                                                 │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 2   │ Grameen Bank              │ YES (named entity  │ Central institution in ch. 4–13 at minimum (71%); ch. 7, 8, 11, 12, 13 are explicitly about    │ 
+  │     │                           │ + ≥20%)            │ the bank; critical to work as whole                                                            │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤ 
+  │ 3   │ Muhammad Yunus            │ YES (named entity  │ Author IS biographical subject; ch. 1–3 directly autobiographical (21%); his voice and         │ 
+  │     │                           │ + ≥20%)            │ experience frame the entire narrative                                                          │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 4   │ Poverty — Developing      │ YES                │ Motivating problem throughout; in title ("world poverty"), abstract ("eradicate poverty");     │ 
+  │     │ countries                 │                    │ pervades as the why of the entire work                                                         │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤ 
+  │ 5   │ Poor — Bangladesh / Rural │ NO — subsumed      │ Beneficiary population; subsumed by combination of microfinance + poverty headings; Bangladesh │ 
+  │     │  poor                     │                    │  captured through named entities                                                               │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤ 
+  │ 6   │ Economic assistance /     │ NO — subsumed      │ Broader context; microfinance is the specific form discussed; per specificity (Step 3), use    │
+  │     │ development               │                    │ the more specific heading                                                                      │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 7   │ Banks and banking —       │ NO — subsumed      │ Subsumed by Grameen Bank (named entity) + microfinance heading                                 │
+  │     │ Bangladesh                │                    │                                                                                                │    
+  ├─────┼───────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 8   │ Small business — Finance  │ NO — subsumed      │ The mechanism of micro-lending; encompassed by the more specific "Microfinance" heading        │
+  └─────┴───────────────────────────┴────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────┘    
+                                               
+  Step 2: Ordering by Predominance (H 80)                                                                                                                      
+                                                                                                                                                               
+  This is an autobiographical work — Yunus tells his own story of developing micro-credit. Per H 80 sec. 2 (biography rule): assign the name of the biographee 
+  as the first subject heading. Though the title and subtitle emphasize the topic, the abstract explicitly frames this as a first-person account ("the founder
+  relates how he developed..."), and the LCGFT term "Autobiographies" applies.                                                                                 
+                                               
+  Order: Yunus (biographee) → Grameen Bank (named institution) → Microfinance (predominant topic) → Poverty (motivating context)                               
+                                               
+  Steps 3–7: Specificity and Depth of Indexing                                                                                                                 
+                                               
+  - Microfinance encompasses micro-credit, micro-lending, small loans — one heading suffices (Step 7)                                                          
+  - Small business, Banks and banking, Economic development all subsumed by the more specific "Microfinance" (Steps 3–4)
+  - Geographic focus: Bangladesh is primary setting (ch. 1–8 = 57%), but ch. 9–10 cover other countries. Bangladesh is well-represented through the named      
+  entities (Yunus is Bangladeshi, Grameen Bank is Bangladeshi); no separate geographic subdivision needed on topical headings since the work is not exclusively
+   about Bangladesh.                                                                                                                                           
+                                                           
+  Step 13: LCGFT                                                                                                                                               
+                                               
+  The work is clearly autobiographical — Yunus narrates his own life story and achievements. Autobiographies is the appropriate LCGFT term.                    
+                                                                                                                                                               
+  ---                                                      
+  Filtered Headings (Ordered by Predominance per H 80)
+                                                                                                                                                               
+  ┌──────────┬────────────────────────────────┬────────────────────┬──────────────────────────────────────────────────┐
+  │ Priority │            Concept             │        Type        │                  Justification                   │                                        
+  ├──────────┼────────────────────────────────┼────────────────────┼──────────────────────────────────────────────────┤                                        
+  │ 1        │ Muhammad Yunus                 │ 600 personal name  │ Biographee (H 80 biography rule → first heading) │
+  ├──────────┼────────────────────────────────┼────────────────────┼──────────────────────────────────────────────────┤
+  │ 2        │ Grameen Bank                   │ 610 corporate name │ Named entity, critical to work as whole          │                                        
+  ├──────────┼────────────────────────────────┼────────────────────┼──────────────────────────────────────────────────┤                                        
+  │ 3        │ Microfinance                   │ 650 topical        │ Predominant topic — the system Yunus developed   │                                        
+  ├──────────┼────────────────────────────────┼────────────────────┼──────────────────────────────────────────────────┤                                        
+  │ 4        │ Poverty — Developing countries │ 650 topical        │ Motivating problem; in title ("world poverty")   │
+  └──────────┴────────────────────────────────┴────────────────────┴──────────────────────────────────────────────────┘                                        
+                                                                                                                                                               
+  ┌─────────────────┬───────┐                                                                                                                                  
+  │      LCGFT      │  Tag  │                  
+  ├─────────────────┼───────┤                                                                                                                                  
+  │ Autobiographies │ 655 7 │                  
+  └─────────────────┴───────┘                                                                                                                                  
+                                                                                                                                                               
+  Total: 4 subject headings + 1 LCGFT (focused set)                                                                                                            
+                                                           
+  ---                                                                                                                                                          
+  Now validating against LC authority files.   
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Microfinance" --check 2>&1 && echo "---SEP---" && python3 tfidf_search.py "Poverty" --check 2>&1)                              
+  ⎿  {                                                                                                                                                         
+       "Microfinance": {                       
+         "authorized_heading": "Microfinance",                                                                                                                 
+     … +36 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Poverty" --top 8 2>&1)                                                                                                         
+  ⎿  [                                                                                                                                                         
+       {                                                   
+         "heading": "Poverty",                                                                                                                                 
+     … +64 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Muhammad Yunus" -a names --check 2>&1 && echo "---SEP---" && python3 tfidf_search.py "Grameen Bank" -a names --check 2>&1)     
+  ⎿  {                                                                                                                                                         
+       "Muhammad Yunus": {                                 
+         "heading": "Yunus, Muhammad, 1879-1975",                                                                                                              
+     … +49 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ That's the wrong Muhammad Yunus (1879-1975). Let me find the correct one — the economist born in 1940.                                                       
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Yunus, Muhammad, 1940" -a names --top 5 2>&1)
+  ⎿  [                                                                                                                                                         
+       {                                       
+         "heading": "Yunus, Muhammad, 1940-",                                                                                                                  
+     … +53 lines (ctrl+o to expand)                                                                                                                            
+                                                           
+⏺ Bash(python3 tfidf_search.py "Autobiographies" -a genreforms --check 2>&1)                                                                                   
+  ⎿  {                                                                                                                                                         
+       "Autobiographies": {                                
+         "authorized_heading": "Autobiographies",                                                                                                              
+     … +28 lines (ctrl+o to expand)                                                                                                                            
+                                                           
+⏺ All authority checks complete. Here are the results and final MARC output.                                                                                   
+                                                                                                                                  
+  Phase 3: Authority Validation Results                                                                                                                        
+                                                                                                                                                               
+  ┌─────┬─────────────────────────┬────────────────────────────────────────────┬──────────────────────────────────┬───────────────────┐                        
+  │  #  │         Heading         │                   Status                   │            MARC Field            │    Geo Subdiv     │
+  ├─────┼─────────────────────────┼────────────────────────────────────────────┼──────────────────────────────────┼───────────────────┤                        
+  │ 1   │ Yunus, Muhammad, 1940-  │ AUTHORIZED (LCNAF n50014624)               │ 100 1_ $aYunus, Muhammad,$d1940- │ N/A               │
+  ├─────┼─────────────────────────┼────────────────────────────────────────────┼──────────────────────────────────┼───────────────────┤                        
+  │ 2   │ Grameen Bank            │ AUTHORIZED (LCNAF n84207242)               │ 110 2_ $aGrameen Bank            │ N/A               │                        
+  ├─────┼─────────────────────────┼────────────────────────────────────────────┼──────────────────────────────────┼───────────────────┤                        
+  │ 3   │ Microfinance            │ AUTHORIZED (UF: Microcredit, Microlending) │ 150 $aMicrofinance               │ May subdivide geo │
+  ├─────┼─────────────────────────┼────────────────────────────────────────────┼──────────────────────────────────┼───────────────────┤                        
+  │ 4   │ Poverty                 │ AUTHORIZED (UF: Destitution)               │ 150 $aPoverty                    │ May subdivide geo │
+  ├─────┼─────────────────────────┼────────────────────────────────────────────┼──────────────────────────────────┼───────────────────┤                        
+  │ 5   │ Autobiographies (LCGFT) │ AUTHORIZED (UF: Memoirs)                   │ 155 $aAutobiographies            │ N/A               │                        
+  └─────┴─────────────────────────┴────────────────────────────────────────────┴──────────────────────────────────┴───────────────────┘                        
+                                               
+  Note: Initial LCNAF search returned the wrong Muhammad Yunus (1879–1975). The correct record is n50014624 (Yunus, Muhammad, 1940-), the Bangladeshi economist
+   and Nobel laureate.                         
+                                                                                                                                                               
+  Geographic subdivision decision: Neither "Microfinance" nor "Poverty" receives $z. Title says "world poverty"; ch. 9–10 cover other countries beyond         
+  Bangladesh. The Bangladesh focus is captured through the named entities (Yunus, Grameen Bank — both Bangladeshi).                                            
+                                                           
+  ---                                                                                                                                                          
+  Phase 4: MARC 21 Subject Access Fields       
+                                                                                                                                                               
+  Quality Checklist                                                                                                                                            
+                                                                                                                                                               
+  - Correct tags: 600 personal name, 610 corporate name, 650 topical, 655 genre/form                                                                           
+  - 600 indicators: 1 (surname entry), 0 (LCSH)            
+  - 610 indicators: 2 (direct order), 0 (LCSH)                                                                                                                 
+  - 650 indicators: blank, 0 (LCSH)                                                                                                                            
+  - 655 indicators: blank, 7 (source specified)            
+  - No $v form subdivisions                                                                                                                                    
+  - LCGFT not subdivided                                                                                                                                       
+  - 655 placed after all subject headings                  
+  - Ordered by predominance: biographee first (H 80 sec. 2)                                                                                                    
+  - All headings validated against LC authority files                                                                                                          
+                                                           
+  Final MARC Output                                                                                                                                            
+                                                                                                                                                               
+  600 10 $aYunus, Muhammad,$d1940-             
+  610 20 $aGrameen Bank.                                                                                                                                       
+  650 _0 $aMicrofinance.                                                                                                                                       
+  650 _0 $aPoverty.                            
+  655 _7 $aAutobiographies.$2lcgft
+
+  Notes
+
+  ┌───────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐       
+  │             Field             │                                                     Rationale                                                      │
+  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 600 Yunus, Muhammad, $d 1940- │ Biographee; per H 80 sec. 2, first heading in autobiographical works; LCNAF n50014624                              │
+  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 610 Grameen Bank              │ Named corporate body, critical to entire work (institution Yunus founded); LCNAF n84207242                         │
+  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤       
+  │ 650 Microfinance              │ Predominant topic; authorized form encompasses micro-credit, micro-lending, small loans (all UF references)        │
+  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤       
+  │ 650 Poverty                   │ Motivating context; "world poverty" in title; no $z — global scope (Bangladesh + developing + developed countries) │
+  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤       
+  │ 655 Autobiographies           │ LCGFT; Yunus narrates his own life story and achievements in first person                                          │
+  └───────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘       
+
+

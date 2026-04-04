@@ -1,0 +1,284 @@
+❯ Title: Currencies, commodities and consumption /\                                                                                                              
+\
+Abstract: "Currency values, prices, consumption and incomes are at the heart of the economic performance of all countries. In order to make a meaningful       
+comparison between one economy and another, economists routinely make use of purchasing power parity (PPP) exchange rates, but whilst PPP rates are widely     
+used and well understood they take a lot of effort to produce and suffer from publication delays. Currencies, Commodities and Consumption analyses the         
+strengths and weaknesses of two alternatives to PPP. Firstly, the so-called 'Big Mac Index' which uses hamburger prices as a standard of measurement and       
+secondly, a less well known technique which infers incomes across countries based on the proportion of consumption devoted to food. Kenneth Clements uses      
+international macroeconomics, microeconomic theory and econometrics to provide researchers and policy makers with insights into alternatives to PPP rates and  
+make sense of the ongoing instability of exchange rates and commodity prices"--\                                                                               
+\
+TOC: 1. Introduction -- Part I. Exchange Rates and Prices: 2. Purchasing power parity theory and the Big Mac Index -- 3. Commodity currencies and currency     
+commodities -- Part II. Commodity Prices: 4. Three facts about marijuana prices -- 5. Patterns in world metal prices -- Part III. International Patterns of    
+Incomes, Prices and Consumption: 6. Disparities in incomes and prices internationally -- 7. Affluence and food: a simple way to infer incomes.                 
+
+⏺ I'll start the cataloging workflow. First, conceptual analysis.
+                                                                                                                                  
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill                                                                                                                                 
+   
+⏺ Phase 1: Conceptual Analysis                                                                                                                                 
+                                                                                                                                  
+  Bibliographic Examination                                                                                                                                    
+                                                                                                                                                               
+  ┌──────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Feature  │                                                       Observation                                                       │                       
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title    │ Descriptive but broad — three general economic concepts linked                                                          │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract │ Clearly states purpose: analyzing two alternatives to PPP exchange rates                                                │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                       
+  │ TOC      │ Three-part structure: (I) Exchange rates/prices, (II) Commodity prices, (III) International income/consumption patterns │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                       
+  │ Author   │ Kenneth Clements — economist using macro, micro, and econometric methods                                                │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                       
+  │ Audience │ Researchers and policy makers                                                                                           │
+  └──────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘                       
+                                                                  
+  Wilson's Methods Applied                                                                                                                                     
+                                                                  
+  ┌───────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐                
+  │    Method     │                                                          Finding                                                          │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ Purposive     │ Author aims to analyze alternatives to PPP rates and explain exchange rate/commodity price instability                    │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Figure-Ground │ Central figure: purchasing power parity and its alternatives (Big Mac Index, food-consumption income inference)           │                
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ Objective     │ Dominant terms: purchasing power parity, exchange rates, commodity prices, consumption, incomes, international comparison │                
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ Cohesion      │ Unifying thread: methods of comparing economic variables across countries                                                 │
+  └───────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘                
+                                                                  
+  Langridge's Questions                                                                                                                                        
+                                                                  
+  ┌───────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │       Question        │                                                             Answer                                                              │
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Q1: What IS it?       │ Social science — economics (Form 5: Human Science)                                                                              │
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Q2: What is it ABOUT? │ Alternatives to PPP for international economic comparison; exchange rates; commodity prices; consumption-based income inference │  
+  ├───────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Q3: What is it FOR?   │ Advanced-level research tool for economists and policy makers                                                                   │  
+  └───────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+                                                                  
+  Concepts Identified                                                                                                                                          
+                                                                  
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Discipline    │ Economics — international economics, econometrics                                                                                       │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Topics        │ Purchasing power parity; Foreign exchange rates; Commodity prices; Consumption (Economics); Income comparison; Big Mac Index; Precious  │  
+  │               │ metals prices; Marijuana prices; Food prices                                                                                            │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Names         │ Big Mac Index (named economic indicator)                                                                                                │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ Contemporary (no specific period)                                                                                                       │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Form/Genre    │ Scholarly monograph                                                                                                                     │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Aboutness Statement
+
+  ▎ This scholarly economics monograph examines alternatives to purchasing power parity (PPP) exchange rates for making international economic comparisons. It 
+  analyzes two specific alternatives: the Big Mac Index, which uses hamburger prices as a cross-country standard, and a food-consumption method that infers 
+  national incomes from the proportion of spending devoted to food. The book covers exchange rate theory, commodity prices (with case studies on metals and    
+  marijuana), and international patterns of income and consumption disparities. Using international macroeconomics, microeconomic theory, and econometrics, it 
+  is directed at researchers and policy makers.
+
+  Estimated Proportions                                                                                                                                        
+  
+  ┌───────────────────────────────────┬────────┬───────────────────────────────────┐                                                                           
+  │              Concept              │ Est. % │               Basis               │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Purchasing power parity           │ ~40%   │ Central benchmark throughout      │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Foreign exchange rates            │ ~30%   │ Part I + recurring theme          │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Commodity prices                  │ ~25%   │ Entire Part II + Ch. 3            │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Consumption (Economics)           │ ~20%   │ Part III + food method            │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Income — international comparison │ ~15%   │ Ch. 6–7                           │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Big Mac Index                     │ ~15%   │ Ch. 2 as specific PPP alternative │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Econometrics                      │ ~10%   │ Methodology throughout            │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Precious metals — Prices          │ ~14%   │ Ch. 5 (1 of 7 chapters)           │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Marijuana — Prices                │ ~14%   │ Ch. 4 (1 of 7 chapters)           │
+  ├───────────────────────────────────┼────────┼───────────────────────────────────┤                                                                           
+  │ Food prices                       │ ~10%   │ Ch. 7                             │
+  └───────────────────────────────────┴────────┴───────────────────────────────────┘                                                                           
+  
+  Now applying quantitative filtering.                                                                                                                         
+                                                                  
+⏺ Skill(lcsh-quantitative-filtering)                                                                                                                           
+  ⎿  Successfully loaded skill                                                                                                    
+                                  
+⏺ Phase 2: Quantitative Filtering                                                                                                                              
+                                                                                                                                  
+  Step 1: 20% Rule                                                                                                                                             
+                                                                                                                                                               
+  ┌───────────────────────────────────┬────────┬─────────────┬─────────────────────────────────────────────────────────────┐                                   
+  │              Concept              │ Est. % │ Passes 20%? │                   Named Entity Exception?                   │                                   
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Purchasing power parity           │ ~40%   │ YES         │ —                                                           │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Foreign exchange rates            │ ~30%   │ YES         │ —                                                           │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤
+  │ Commodity prices                  │ ~25%   │ YES         │ —                                                           │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤
+  │ Consumption (Economics)           │ ~20%   │ YES         │ —                                                           │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤
+  │ Income — international comparison │ ~15%   │ NO          │ No                                                          │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Big Mac Index                     │ ~15%   │ NO          │ Not a person/body/event/building/product in H 180 N.3 sense │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Econometrics                      │ ~10%   │ NO          │ No                                                          │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Precious metals — Prices          │ ~14%   │ NO          │ No                                                          │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Marijuana — Prices                │ ~14%   │ NO          │ No                                                          │
+  ├───────────────────────────────────┼────────┼─────────────┼─────────────────────────────────────────────────────────────┤                                   
+  │ Food prices                       │ ~10%   │ NO          │ No                                                          │
+  └───────────────────────────────────┴────────┴─────────────┴─────────────────────────────────────────────────────────────┘
+
+  Step 4: Depth of Indexing
+
+  Precious metals prices, marijuana prices, and food prices are subsumed under the broader assigned headings (commodity prices, consumption). No separate      
+  headings needed.
+                                                                                                                                                               
+  Step 7: Encompassing Heading Check (sec. J)                                                                                                                  
+  
+  No single heading encompasses "purchasing power parity" + "foreign exchange rates" without being overly broad. Keep separate.                                
+                                                                  
+  Step 8: General + Subtopic (sec. I)                                                                                                                          
+                                                                  
+  Big Mac Index (~15%) is a subtopic of purchasing power parity but falls below the 20% threshold for separate treatment.                                      
+                                                                  
+  Step 13: LCGFT                                                                                                                                               
+                                                                  
+  Standard scholarly economics monograph — no distinctive genre/form comes readily to mind. No 655 assigned.                                                   
+  
+  Filtered Headings (ordered by predominance, H 80)                                                                                                            
+                                                                  
+  ┌──────────┬─────────────────────────┬────────────────────────────────────┐
+  │ Priority │    Candidate Heading    │               Basis                │
+  ├──────────┼─────────────────────────┼────────────────────────────────────┤
+  │ 1        │ Purchasing power parity │ Predominant topic (~40%)           │
+  ├──────────┼─────────────────────────┼────────────────────────────────────┤
+  │ 2        │ Foreign exchange rates  │ Second major topic (~30%)          │
+  ├──────────┼─────────────────────────┼────────────────────────────────────┤                                                                                  
+  │ 3        │ Commodity prices        │ Third topic (~25%), entire Part II │
+  ├──────────┼─────────────────────────┼────────────────────────────────────┤                                                                                  
+  │ 4        │ Consumption (Economics) │ Fourth topic (~20%), Part III      │
+  └──────────┴─────────────────────────┴────────────────────────────────────┘
+
+  Now validating these against LC authority files.                                                                                                             
+   
+⏺ Skill(lc-authority)                                                                                                                                          
+  ⎿  Successfully loaded skill                                                                                                    
+                                    
+⏺ I'll check all four headings against the LCSH authority file.                                                                                                
+                                                                                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Purchasing power parity" --check)                    
+  ⎿  {                                                                                                                                                         
+       "Purchasing power parity": {                                                                                                                            
+         "authorized_heading": "Purchasing power parity",                                                                                                      
+     … +18 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Foreign exchange rates" --check)                     
+  ⎿  {                                                                                                                                    
+       "Foreign exchange rates": {                                                                                                                             
+         "authorized_heading": "Foreign exchange rates",                                                                                                       
+     … +24 lines (ctrl+o to expand)                                                                                                 
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Commodity prices" --check)                           
+  ⎿  {                                                                                                                                     
+       "Commodity prices": {                                                                                                                                   
+         "authorized_heading": "Prices",                                                                                                                       
+     … +33 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Consumption (Economics)" --check)                    
+  ⎿  {                                                                                                                                                         
+       "Consumption (Economics)": {                                                                                                                            
+         "authorized_heading": "Consumption (Economics)",                                                                                                      
+     … +27 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ "Commodity prices" redirected to the broader heading "Prices" (it's a UF reference). Let me search for a more specific authorized heading.                   
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Commodity prices" --top 10)                                                                                                    
+  ⎿  [                                                                                                                                                         
+       {                                                          
+         "heading": "Commodity prices",                                                                                                                        
+     … +54 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Primary commodities prices" --top 5)                                                                                           
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Primary commodities",                                                                                                                     
+     … +56 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Authority Validation Results                                                                                                                                 
+                                                                                                                                                               
+  ┌─────────────────────────┬───────────────────────────────┬─────────────────────────────────┬────────────────────┐                                           
+  │        Candidate        │      Authorized Heading       │             Status              │ Geographic Subdiv. │                                           
+  ├─────────────────────────┼───────────────────────────────┼─────────────────────────────────┼────────────────────┤                                           
+  │ Purchasing power parity │ Purchasing power parity       │ Exact match                     │ May subdivide      │                                           
+  ├─────────────────────────┼───────────────────────────────┼─────────────────────────────────┼────────────────────┤                                           
+  │ Foreign exchange rates  │ Foreign exchange rates        │ Exact match                     │ May subdivide      │                                           
+  ├─────────────────────────┼───────────────────────────────┼─────────────────────────────────┼────────────────────┤                                           
+  │ Commodity prices        │ Prices (UF: Commodity prices) │ USE reference → broader heading │ May subdivide      │                                           
+  ├─────────────────────────┼───────────────────────────────┼─────────────────────────────────┼────────────────────┤                                           
+  │ Consumption (Economics) │ Consumption (Economics)       │ Exact match                     │ May subdivide      │
+  └─────────────────────────┴───────────────────────────────┴─────────────────────────────────┴────────────────────┘                                           
+                                                                  
+  "Commodity prices" is a USE reference to the broader "Prices." Since the book covers multiple commodity types (metals, marijuana, currency commodities) at a 
+  general level, "Prices" is the appropriate authorized heading.  
+                                                                                                                                                               
+  No geographic subdivisions needed — the work is international/comparative with no single geographic focus.                                                   
+  
+  Now generating MARC fields.                                                                                                                                  
+                                                                  
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                  
+  ⎿  Successfully loaded skill                                                                                                    
+                                     
+⏺ Phase 4: MARC 6xx Field Generation                                                                                                                           
+                                                                                                                                  
+  All four headings are straightforward topical subjects (650) with no subdivisions needed. No geographic focus, no named entities, no identifiable genre/form.
+                                                                                                                                                               
+  Quality Checklist                                                                                                                                            
+                                                                                                                                                               
+  ┌──────────────────────────────────────────────────────┬────────┐                                                                                            
+  │                        Check                         │ Status │
+  ├──────────────────────────────────────────────────────┼────────┤
+  │ Correct tag (650) for topical subjects               │ Pass   │
+  ├──────────────────────────────────────────────────────┼────────┤
+  │ First indicator blank, second indicator 0 (LCSH)     │ Pass   │                                                                                            
+  ├──────────────────────────────────────────────────────┼────────┤                                                                                            
+  │ Subdivision order ($a only — no subdivisions needed) │ Pass   │                                                                                            
+  ├──────────────────────────────────────────────────────┼────────┤                                                                                            
+  │ No $v form subdivisions                              │ Pass   │
+  ├──────────────────────────────────────────────────────┼────────┤                                                                                            
+  │ All headings validated against LCSH authority        │ Pass   │
+  ├──────────────────────────────────────────────────────┼────────┤                                                                                            
+  │ Ordered by predominance (H 80)                       │ Pass   │
+  ├──────────────────────────────────────────────────────┼────────┤
+  │ No LCGFT — no identifiable genre/form (J 110 sec. 4) │ Pass   │
+  └──────────────────────────────────────────────────────┴────────┘
+
+  ---
+  Final MARC 21 Subject Access Fields
+                                                                                                                                                               
+  650  0 $aPurchasing power parity.
+  650  0 $aForeign exchange rates.                                                                                                                             
+  650  0 $aPrices.                                                                                                                                             
+  650  0 $aConsumption (Economics).                                                                                                                            
+                                                                                                                                                               
+  Summary: Four topical subject headings ordered by predominance. "Purchasing power parity" leads as the dominant concept (~40%). "Commodity prices" was       
+  translated to the authorized heading "Prices." No LCGFT 655 fields — this is a standard scholarly economics monograph with no distinctive genre/form. No
+  geographic or chronological subdivisions — the work is international and comparative in scope.                                                               
+                                                                  
+                                                                                                           

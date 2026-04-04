@@ -1,0 +1,258 @@
+❯ Title: The hallowing of logic : the Trinitarian method of Richard Baxter's Methodus theologiae /\                                                                 
+\
+Abstract: Drawing on Baxter's medieval and early modern sources, this study examines the roots and manifold ramifications of his Trinitarian, exemplaristic       
+logic, placing him within a scholastic paradigm of 'faith seeking understanding' and demonstrating his indebtedness to Scotist and Nominalist thought.\           
+\
+TOC: Acknowledgements; List of Abbreviations; Introduction; 1. Prologue; 2. Approaching Baxter's Theology; 3. Purpose, Rationale and Methodology; Chapter One     
+Touchstones of Theology; 1. Introduction; 2. Historical and Theological Background of Catechising; 3. Baxter's Catechetical Practice; 4. Baxter's Catechetical    
+Theology; 4.1. Essentials of the Christian Religion; 4.2. Theology as Scientia-Affectiva-Practica; 5. Trinitarian Catechetical Theology; Chapter Two The Quest    
+for Method; 1. Introduction; 2. The Exaltation of Method; 2.1. Ramist Logic; 2.2. Lullist Logic.                                                                  
+
+⏺ I'll catalogue this book using the full LCSH workflow. Starting with conceptual analysis.
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Conceptual Analysis
+
+  Aboutness Statement: This scholarly monograph examines Richard Baxter's (1615–1691) Trinitarian theological method as articulated in his Methodus theologiae. It
+   traces the intellectual roots of Baxter's exemplaristic logic in medieval scholastic thought — particularly Scotism and Nominalism — and in early modern
+  logical traditions (Ramist and Lullist logic). The work situates Baxter within the scholastic paradigm of "faith seeking understanding" and explores his
+  catechetical theology. An advanced academic study for researchers in historical theology and early modern intellectual history.
+
+  Concepts Identified:
+
+  ┌─────┬────────────────────────────────────────┬────────────────────────────────┬─────────────────────────────┐
+  │  #  │                Concept                 │              Type              │           Source            │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 1   │ Richard Baxter, 1615-1691              │ Named person (primary subject) │ Title, abstract, TOC        │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 2   │ Methodus theologiae (Baxter's work)    │ Named work                     │ Title                       │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 3   │ Trinity / Trinitarian logic            │ Topic                          │ Title, abstract, TOC        │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 4   │ Scholasticism                          │ Topic                          │ Abstract                    │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 5   │ Logic — Religious aspects              │ Topic                          │ Title, abstract             │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 6   │ Exemplarism                            │ Topic                          │ Abstract                    │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 7   │ Catechetics                            │ Topic                          │ TOC (ch. 1)                 │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 8   │ Nominalism                             │ Topic                          │ Abstract                    │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 9   │ John Duns Scotus (Scotist thought)     │ Named person (influence)       │ Abstract                    │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 10  │ Ramon Llull (Lullist logic)            │ Named person (influence)       │ TOC                         │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 11  │ Peter Ramus (Ramist logic)             │ Named person (influence)       │ TOC                         │
+  ├─────┼────────────────────────────────────────┼────────────────────────────────┼─────────────────────────────┤
+  │ 12  │ Puritans — England — Intellectual life │ Topic                          │ Context (Baxter as Puritan) │
+  └─────┴────────────────────────────────────────┴────────────────────────────────┴─────────────────────────────┘
+
+  Now applying quantitative filtering.
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering Results
+
+  20% Rule Application
+
+  ┌─────┬─────────────────────────────┬─────────────────────────────────┬──────────────────────────────────────────────┬────────────────────────────────────┐
+  │  #  │           Concept           │              ≥20%?              │           Named Entity Exception?            │              Verdict               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 1   │ Richard Baxter, 1615-1691   │ Yes (100%)                      │ Yes — primary subject                        │ ASSIGN                             │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 2   │ Methodus theologiae         │ Yes (100%)                      │ Yes — named work                             │ ASSIGN (as name-title 600 with #1) │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 3   │ Trinity / Trinitarian logic │ Yes — central thesis throughout │ —                                            │ ASSIGN                             │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 4   │ Scholasticism               │ Yes — frames entire study       │ —                                            │ ASSIGN                             │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 5   │ Logic — Religious aspects   │ Yes — core subject per title    │ —                                            │ ASSIGN                             │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 6   │ Exemplarism                 │ No — abstract mention only      │ No                                           │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 7   │ Catechetics                 │ No — one chapter (~15%)         │ No                                           │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 8   │ Nominalism                  │ No — one influence of several   │ No                                           │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 9   │ John Duns Scotus            │ No                              │ Borderline — not critical to work as a whole │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 10  │ Ramon Llull                 │ No — one subsection             │ Not critical                                 │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 11  │ Peter Ramus                 │ No — one subsection             │ Not critical                                 │ Drop                               │
+  ├─────┼─────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┼────────────────────────────────────┤
+  │ 12  │ Puritans — England          │ No — contextual background      │ No                                           │ Drop                               │
+  └─────┴─────────────────────────────┴─────────────────────────────────┴──────────────────────────────────────────────┴────────────────────────────────────┘
+
+  Rule of Three applied: Concepts 8–11 (Nominalism, Scotism, Ramism, Lullism) are four subtopics of "intellectual influences." Per H 180 sec. K, 4+ subtopics →
+  assign broader heading. "Scholasticism" (#4) already covers the medieval sources; "Logic — Religious aspects" (#5) encompasses the logical traditions.
+
+  Headings Ordered by Predominance (H 80)
+
+  1. Baxter, Richard, 1615-1691. Methodus theologiae — name-title heading (primary subject)
+  2. Trinity — central thesis
+  3. Logic — Religious aspects — core subject per title
+  4. Scholasticism — framing context
+
+  LCGFT
+
+  No genre/form terms assigned. This is a historical-theological study with no identifiable genre/form per J 110 rule 3.
+
+  Now validating these headings against LC authority files.
+
+⏺ Skill(lc-authority)
+  ⎿  Successfully loaded skill
+
+⏺ I'll run all authority checks in parallel.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Baxter, Richard" -a names --top 5)
+  ⎿  [
+       {
+         "heading": "Baxter, Richard",
+     … +51 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Trinity" --top 5)
+  ⎿  [
+       {
+         "heading": "Trinity",
+     … +56 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Logic, Religious aspects" --top 5)
+  ⎿  [
+       {
+         "heading": "Logic",
+     … +43 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Scholasticism" --top 5)
+  ⎿  [
+       {
+         "heading": "Scholasticism",
+     … +53 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Theology -- Methodology" --top 5)
+  ⎿  [
+       {
+         "heading": "Theology--Methodology",
+     … +54 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Logic, Medieval" --top 5)
+  ⎿  [
+       {
+         "heading": "Logic, Medieval",
+     … +58 lines (ctrl+o to expand)
+
+⏺ Good results. Let me check a few more specific forms.
+
+⏺ Bash(python3 tfidf_search.py "Logic--Religious aspects" --top 5)
+  ⎿  [
+       {
+         "heading": "Logic",
+     … +43 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Trinity--History of doctrines" --top 5)
+  ⎿  [
+       {
+         "heading": "Trinity--History of doctrines--20th century",
+     … +57 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Baxter, Richard, 1615-1691. Methodus" -a names --top 5)
+  ⎿  [
+       {
+         "heading": "Baxter, Richard, 1615-1691. Methodus theologiæ Christianæ",
+     … +14 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Protestant Scholasticism" --check)
+  ⎿  {
+       "Protestant Scholasticism": {
+         "authorized_heading": "Protestant Scholasticism",
+     … +15 lines (ctrl+o to expand)
+
+⏺ Let me check a couple more specific forms.
+
+⏺ Bash(python3 tfidf_search.py "Trinity--History of doctrines--17th century" --top 3)
+  ⎿  [
+       {
+         "heading": "History of doctrines--17th century",
+     … +38 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Logic--Religious aspects" --check)
+  ⎿  {
+       "Logic--Religious aspects": {
+         "authorized_heading": "Logic",
+     … +35 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Religion and logic" --top 3)
+  ⎿  [
+       {
+         "heading": "Logic",
+     … +35 lines (ctrl+o to expand)
+
+⏺ Authority Validation Summary                   
+                                                                                                                                  
+  ┌───────────────────────────────────────────────────┬─────────────────┬────────────────┬───────────────────────────────────────────────────────────────────┐ 
+  │                      Heading                      │    Authority    │     Status     │                               Notes                               │ 
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤  
+  │ Baxter, Richard, 1615-1691                        │ LCNAF n50005510 │ Authorized     │ Personal name                                                     │    
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤ 
+  │ Baxter, Richard, 1615-1691. Methodus theologiæ    │ LCNAF           │ Authorized     │ Name-title; note full Latin form with "Christianæ"                │    
+  │ Christianæ                                        │ n2012002717     │                │                                                                   │  
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤    
+  │ Trinity                                           │ LCSH            │ Authorized     │ Exact match; no geo subdiv                                        │    
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤    
+  │ Theology--Methodology                             │ LCSH            │ Authorized     │ Exact match                                                       │    
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤ 
+  │ Protestant Scholasticism                          │ LCSH            │ Authorized     │ More specific than "Scholasticism" per H 180 sec. G; may subdiv   │    
+  │                                                   │                 │                │ geographically                                                    │  
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤    
+  │ Logic--Religious aspects                          │ LCSH            │ Not            │ No such heading exists                                            │
+  │                                                   │                 │ established    │                                                                   │    
+  ├───────────────────────────────────────────────────┼─────────────────┼────────────────┼───────────────────────────────────────────────────────────────────┤  
+  │ Logic, Medieval                                   │ LCSH            │ Authorized     │ Available but subsumed by other headings                          │    
+  └───────────────────────────────────────────────────┴─────────────────┴────────────────┴───────────────────────────────────────────────────────────────────┘
+                                                                                                                                                                  
+  Key decisions:                                                                                                                                                  
+  - Name-title heading uses the LCNAF-authorized form "Methodus theologiæ Christianæ" (with æ ligature and full title)
+  - Protestant Scholasticism preferred over "Scholasticism" per specificity (H 180 sec. G) — Baxter as Protestant engaging scholastic method                      
+  - Theology--Methodology captures the methodological focus in the title better than "Logic--Religious aspects" (not established)                               
+  - Logic, Medieval dropped — the logic traditions (Ramism, Lullism) are individual subsections, subsumed under the broader methodological focus                  
+                                                                                                                                                                
+  Now generating MARC fields.                                                                                                                                     
+                                                                                                                                                                  
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                     
+  ⎿  Successfully loaded skill                                                                                                                                    
+                                                                                                                                                                  
+⏺ Final MARC 21 Subject Access Fields                                                                                                                             
+                                                                                                                                                                
+  600 10 $aBaxter, Richard,$d1615-1691.$tMethodus theologiæ Christianæ.                                                                                           
+  650  0 $aTrinity.               
+  650  0 $aTheology$xMethodology.                                                                                                                                 
+  650  0 $aProtestant Scholasticism.                                                                                                                              
+                                  
+  Field-by-Field Justification                                                                                                                                    
+                                                                                                                                                                
+  ┌───────┬───────────────────────────────────────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────┐    
+  │ Field │                  Heading                  │                                              Rationale                                               │ 
+  ├───────┼───────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 600   │ Baxter, Richard, 1615-1691. Methodus      │ Primary subject (H 80). LCNAF n2012002717. Name-title heading; the entire work examines this         │ 
+  │ 10    │ theologiæ Christianæ                      │ specific text. Ind1=1 (surname), Ind2=0 (LCSH).                                                      │ 
+  ├───────┼───────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────┤ 
+  │ 650   │ Trinity                                   │ Central thesis — Trinitarian logic as theological framework. LCSH exact match. No geo subdiv         │  
+  │ 0     │                                           │ authorized.                                                                                          │    
+  ├───────┼───────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ 650   │ Theology$xMethodology                     │ Core methodological focus per the title ("the Trinitarian method"). LCSH authorized; $x topical      │    
+  │ 0     │                                           │ subdivision.                                                                                         │
+  ├───────┼───────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 650   │ Protestant Scholasticism                  │ Intellectual tradition framing the study — a Protestant theologian engaging scholastic method. More  │    
+  │ 0     │                                           │ specific than "Scholasticism" per H 180 sec. G. LCSH exact match.                                    │
+  └───────┴───────────────────────────────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────┘    
+                                                                                                                                                                  
+  Notes                           
+                                                                                                                                                                  
+  - No 655 (LCGFT): This is a historical-theological scholarly monograph with no identifiable genre/form per J 110 sec. 4.
+  - No $v subdivisions: Per 2026 LC practice (H 1075 sec. C.4).                                                                                                 
+  - 4 headings — within typical range (H 180 sec. F).                                                                                                             
+  - Ordered by predominance: name-title subject first, then topical headings by centrality to the work.                                                         
+                                                                                                                                                                  

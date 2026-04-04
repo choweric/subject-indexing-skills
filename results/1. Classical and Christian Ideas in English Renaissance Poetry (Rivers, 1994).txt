@@ -1,0 +1,234 @@
+❯ Title: Classical and Christian ideas in English Renaissance poetry : a student's guide /\                                                                      
+\
+Abstract: "Since its first publication Isabel Rivers' sourcebook has established itself as the essential student guide to English Renaissance Poetry. It       
+provides an account of the main classical and Christian ideas, outlining their meaning, their origins and their transmission to the Renaissance; illustrates   
+the ways in which Renaissance poetry drew on classical and Christian ideas; contains extracts from key classical and Christian texts and relates these to the  
+extracts of the English poems which draw on them; and includes suggestions for further reading, and an invaluable bibliographical appendix. In this new        
+edition, the bibliographies have been updated to take account of important recent publications in philosophy, religion and Renaissance studies."--Jacket.\     
+\
+TOC: The golden age and the garden of eden -- The pagan gods -- Platonism and neoplatonism -- Stoicism -- Views of history -- Cosmology -- Reformation and     
+counter-reformation -- Protestant theology -- Humanism -- BIblical exegesis and typology -- Theories of poetry -- Allegory -- Numerology.\                     
+                                                                                                                                                               
+⏺ I'll catalogue this book using the full LCSH workflow. Starting with conceptual analysis.                                                                    
+                                                                                                                                                               
+⏺ Skill(lcsh-conceptual-analysis)                                                                                                                              
+  ⎿  Successfully loaded skill                                                                                                                                 
+                              
+⏺ Conceptual Analysis                                                                                                                                          
+                                                                                                                                  
+  Phase 1: Bibliographic Examination                                                                                                                           
+                                                                                                                                                               
+  ┌──────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐  
+  │ Feature  │                                                                 Observation                                                                  │  
+  ├──────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title    │ Clearly states subject: classical and Christian ideas in English Renaissance poetry. Subtitle "a student's guide" signals audience and form. │  
+  ├──────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Abstract │ Confirms sourcebook format — extracts from classical/Christian texts paired with English poems that drew on them. Updated bibliographies.    │  
+  ├──────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ TOC      │ 13 chapters organized by intellectual tradition, not by poet — covers both classical (Platonism, Stoicism, cosmology) and Christian          │  
+  │          │ (Reformation, Protestant theology, biblical exegesis) streams, plus bridging topics (humanism, allegory, numerology).                        │  
+  ├──────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Creator  │ Isabel Rivers — academic author in English literature / intellectual history.                                                                │  
+  └──────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+  
+  Phase 2: Analytical Methods                                                                                                                                  
+                                                                  
+  Purposive Method: Author's intent is to help students understand the intellectual background — classical philosophy and Christian theology — that English    
+  Renaissance poets drew upon, and to illustrate those connections with paired textual extracts.
+                                                                                                                                                               
+  Figure-Ground Method: The central figure is the relationship between classical/Christian intellectual traditions and English Renaissance poetry — not the    
+  poetry itself in isolation, nor the philosophy/theology in isolation, but the transmission of ideas into poetic practice.
+                                                                                                                                                               
+  Objective Method: Dominant recurring concepts: English Renaissance poetry, classical ideas (Platonism, Neoplatonism, Stoicism), Christian ideas (Reformation,
+   Protestant theology, biblical typology), and the transmission/influence relationship between source traditions and poetry.
+
+  Cohesion Method: The selection principle is intellectual traditions that demonstrably shaped English Renaissance poetry. Each chapter isolates one tradition 
+  and traces its path into the poetry. Excluded: traditions without clear poetic influence; non-English poetry; post-Renaissance reception.
+                                                                                                                                                               
+  Langridge's Questions                                                                                                                                        
+   
+  ┌───────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────┐                       
+  │       Question        │                                                   Answer                                                   │                     
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q1: What IS it?       │ Literary criticism / intellectual history. Also a sourcebook (anthology of extracts). Form 11 (Criticism). │
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q2: What is it ABOUT? │ The influence of classical philosophy and Christian theology on English Renaissance poetry.                │                       
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤                       
+  │ Q3: What is it FOR?   │ Students of English Renaissance literature, introductory/intermediate level.                               │                       
+  └───────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────┘                       
+                                                                                                                                                             
+  Phase 3: Concept Identification                                                                                                                              
+                                                                                                                                                             
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Discipline    │ English literature; intellectual history; classical philosophy; Christian theology                                                      │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │               │ (1) English poetry — Renaissance — history and criticism; (2) Christianity and literature — England; (3) Classical influences on        │  
+  │ Topics        │ English literature; (4) Philosophy, Ancient — influence; (5) Civilization, Classical — influence; (6) Platonism/Neoplatonism; (7)       │  
+  │               │ Stoicism; (8) Reformation; (9) Protestant theology; (10) Humanism; (11) Biblical typology/exegesis; (12) Allegory; (13) Numerology;     │  
+  │               │ (14) Cosmology in literature                                                                                                            │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ No individual persons or corporate bodies are the central focus                                                                         │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Chronological │ English Renaissance (ca. 1500–1660); classical antiquity (as source period)                                                             │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Form/Genre    │ Sourcebook; student guide; literary criticism                                                                                           │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+                                                                                                                                                             
+  Phase 4: Aboutness Statement
+
+  ▎ This work of literary criticism and intellectual history examines how classical philosophical traditions (Platonism, Neoplatonism, Stoicism, cosmology) and
+   Christian theological ideas (Reformation, Protestant theology, biblical exegesis and typology) influenced English Renaissance poetry. Organized by 
+  intellectual tradition rather than by poet, it is a student sourcebook that pairs extracts from classical and Christian source texts with the English poems  
+  that drew upon them. Bridging topics include humanism, allegory, and numerology. Intended for students at an introductory to intermediate level.           
+
+  Primary concepts for heading translation:                                                                                                                    
+  1. English poetry — Early modern, 1500-1700 — History and criticism
+  2. Christianity and literature — England                                                                                                                     
+  3. Classical literature — Appreciation — England                                                                                                           
+  4. Philosophy, Ancient, in literature                                                                                                                        
+  5. Civilization, Classical — Influence                                                                                                                     
+                                                                                                                                                               
+  Secondary concepts (TOC subtopics — may be filtered by 20% rule):                                                                                          
+  6. Platonism / Neoplatonism                                                                                                                                  
+  7. Stoicism
+  8. Reformation                                                                                                                                               
+  9. Humanism — England                                                                                                                                      
+  10. Biblical typology
+  11. Allegory                                                                                                                                                 
+  12. Numerology
+  13. Cosmology in literature                                                                                                                                  
+                                                                                                                                                               
+  Form/Genre: Sourcebooks
+                                                                                                                                                               
+  ---                                                             
+  Now applying quantitative filtering to determine which concepts merit headings.
+                                                                                                                                                               
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill                                                                                                                                 
+                                                                  
+⏺ Quantitative Filtering Results                                                                                                                               
+                                                                                                                                  
+  Step 1: 20% Rule Analysis                                                                                                                                    
+                                                                                                                                                               
+  The book has 13 TOC chapters. The 20% threshold = ~2.6 chapters.
+                                                                                                                                                               
+  ┌───────────────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────────────┬──────┬────────────┐ 
+  │                              Concept                              │                            Chapters                            │  %   │ Meets 20%? │
+  ├───────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────┼──────┼────────────┤
+  │ English poetry — Early modern — H&C                               │ All 13                                                         │ 100% │ Yes        │
+  ├───────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────┼──────┼────────────┤
+  │ Christianity and literature                                       │ ~4 (Eden, Reformation, Protestant theology, biblical exegesis) │ ~31% │ Yes        │   
+  ├───────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────┼──────┼────────────┤   
+  │ Classical ideas in literature                                     │ ~5 (golden age, pagan gods, Platonism, Stoicism, cosmology)    │ ~38% │ Yes        │   
+  ├───────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────┼──────┼────────────┤   
+  │ Each individual subtopic (Platonism, Stoicism, Reformation, etc.) │ 1 each                                                         │ ~8%  │ No         │ 
+  └───────────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────────┴──────┴────────────┘   
+                                                                                                                                                             
+  No named entities are central to the work as a whole — no 20% exception applies.                                                                             
+                                                                                                                                                             
+  Step 2: Rule of Three                                                                                                                                        
+                                                                                                                                                             
+  - Classical subtopics (5 subtopics > 3): Assign the broad heading only, not individual subtopics
+  - Christian subtopics (4 subtopics > 3): Assign the broad heading only, not individual subtopics
+  - Bridging topics (humanism, allegory, numerology, etc. — 5 subtopics > 3): Each individually <20% and subsumed under the overarching theme; no separate
+  headings                                                                                                                                                     
+   
+  Step 3: Redundancy Check (sec. J)                                                                                                                            
+                                                                                                                                                             
+  Concepts 3 ("Classical literature — Appreciation"), 4 ("Philosophy, Ancient, in literature"), and 5 ("Civilization, Classical — Influence") all capture the  
+  classical dimension. These overlap significantly. Select the heading(s) that most precisely capture the book's focus on the transmission of classical ideas 
+  into English poetry without redundancy.                                                                                                                      
+                                                                                                                                                             
+  Step 4: Depth of Indexing
+
+  Individual chapter topics (Platonism, Stoicism, Reformation, etc.) are subsumed under the broader assigned headings and should not receive separate headings.
+  
+  Filtered Headings for Authority Validation                                                                                                                   
+                                                                                                                                                             
+  Assign (ordered by predominance, H 80):                                                                                                                      
+   
+  1. English poetry — Early modern, 1500-1700 — History and criticism — predominant topic (100%)                                                               
+  2. Christianity and literature — major aspect (~31%), with geographic subdivision for England                                                              
+  3. Classical literature — Appreciation — major aspect (~38%), representing classical ideas' reception in Renaissance England
+                                                                                                                                                               
+  LCGFT (655):                                                                                                                                                 
+  - Sourcebooks — the work is a sourcebook with paired textual extracts                                                                                        
+                                                                                                                                                               
+  Do not assign (each <20%, subsumed by Rule of Three):           
+  - Platonism, Stoicism, Reformation, Humanism, Allegory, Numerology, Biblical typology, Cosmology in literature                                               
+                                                                                                                                                               
+  ---                                                                                                                                                          
+  Now I'll validate these headings against LC authority files.                                                                                                 
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "English poetry -- Early modern, 1500-1700 -- History
+      and crit…)                                                                                                                                               
+  ⎿  {                                                            
+       "English poetry -- Early modern, 1500-1700 -- History and criticism": {                                                                                 
+         "authorized_heading": "English poetry--Early modern, 1500-1700--History and criticism",                                                    
+     … +12 lines (ctrl+o to expand)                                                                                                                            
+                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Christianity and literature" --check 2>&1)           
+  ⎿  {            
+       "Christianity and literature": {                                                                                                                        
+         "authorized_heading": "Christianity and literature",                                                                                                
+     … +16 lines (ctrl+o to expand)                                                                                               
+                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Classical literature -- Appreciation" --check 2>&1)  
+  ⎿  {                                                                                                                            
+       "Classical literature -- Appreciation": {                                                                                                               
+         "authorized_heading": "Classical literature--Appreciation",                                                                                           
+     … +14 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Sourcebooks" -a genreforms --check 2>&1)             
+  ⎿  {                                                                                                                                                         
+       "Sourcebooks": {                                                                                                                                        
+         "authorized_heading": "Primary sources",                                                                                                              
+     … +14 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ All headings validated. Key findings:                                                                                                                        
+  - "Sourcebooks" is a USE reference → authorized form is "Primary sources" (LCGFT)                                               
+  - Christianity and literature: may subdivide geographically                                                                                                  
+  - Classical literature--Appreciation: may subdivide geographically                                                                                           
+  - English poetry--Early modern, 1500-1700--History and criticism: authorized, no geographic subdivision needed (England is implicit)                         
+                                                                                                                                                               
+  Now generating MARC fields.                                                                                                                                  
+                                                                                                                                                             
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                  
+  ⎿  Successfully loaded skill                                                                                                                               
+
+⏺ Final MARC 21 Subject Access Fields                                                                                                                          
+                                                                                                                                  
+  650 #0 $aEnglish poetry$yEarly modern, 1500-1700$xHistory and criticism.                                                                                     
+  650 #0 $aChristianity and literature$zEngland.                                                                                                               
+  650 #0 $aClassical literature$xAppreciation$zEngland.                                                                                                        
+  655 #7 $aPrimary sources.$2lcgft                                                                                                                             
+                                                                                                                                                               
+  Field-by-Field Notes                                                                                                                                         
+                                                                  
+  ┌───────────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │                     Field                     │                                               Rationale                                                │
+  ├───────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ 650 English poetry$yEarly modern,             │ Predominant topic (H 80). Chronological subdivision $y precedes topical $x per authority record. No $z │
+  │ 1500-1700$xHistory and criticism              │  needed — "English" is inherent in the heading.                                                        │
+  ├───────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │                                               │ Authorized, (May Subd Geog). Captures the Christian intellectual traditions (Reformation, Protestant   │
+  │ 650 Christianity and literature$zEngland      │ theology, biblical exegesis) as a group per Rule of Three. England used directly per H 830 exception   │   
+  │                                               │ for Great Britain constituent countries.                                                               │
+  ├───────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ 650 Classical                                 │ Authorized, (May Subd Geog). Captures the classical traditions (Platonism, Stoicism, cosmology, etc.)  │
+  │ literature$xAppreciation$zEngland             │ as a group per Rule of Three. $z follows $x Appreciation per H 860.                                    │   
+  ├───────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 655 Primary sources                           │ LCGFT authorized form ("Sourcebooks" is USE reference). The work compiles extracts from classical and  │   
+  │                                               │ Christian source texts. No subdivisions per J 110 sec. 7.                                              │   
+  └───────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                                                                                                                               
+  Quality Verification                                                                                                                                         
+   
+  - All headings validated against LC authority files                                                                                                          
+  - Subdivision order follows H 1075: $a → $y → $x (field 1); $a → $z (field 2); $a → $x → $z (field 3)
+  - No $v form subdivisions — genre/form expressed via LCGFT 655 (2026 practice)                                                                               
+  - Geographic subdivision uses England directly, not Great Britain (H 830 sec. C.5.a)                                                                         
+  - 3 subject headings + 1 LCGFT term — within typical range                                                                                                   
+  - Ordered by predominance per H 80                                                                                                                           

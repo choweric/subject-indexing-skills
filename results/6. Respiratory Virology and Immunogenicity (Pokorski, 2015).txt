@@ -1,0 +1,462 @@
+❯ Title:Respiratory Virology and Immunogenicity /\                                                                                                                  
+\
+Abstract: This volume provides a modern look on the age-old influenza infection and the preventive role of anti-influenza shots. Influenza pandemic outbreaks are 
+ unrelenting despite the growing understanding of the molecular basis of viral infection and its spreads. A leap in medical technologies has revolutionized the   
+design of new influenza vaccines. The chapters cover vaccination strategies in various age-groups of people and provide the extensive amount of knowledge on the  
+immune response to influenza vaccination in a spectrum of disease conditions.\                                                                                    
+\
+TOC: Reactive oxygen species, granulocytes, and NETosis -- Immunizations against Respiratory Infections in Children in Primary Health Care in Poland: Coverage    
+and Delays -- Effectiveness of Immunoprophylaxis in Suppressing Carriage of Neisseria Meningitidis in the Military Environment -- Detection of Influenza and      
+Other Respiratory Viruses Carried out in the Influenza Project - Monitoring Vaccine Effectiveness (I-MOVE) -- Cytokines and Toll-like Receptors in the Immune     
+Response to Influenza Vaccination -- Vaccination Status and Perception of Influenza Vaccination in the Polish Population -- Immune Efficacy of First and Repeat   
+Trivalent Influenza Vaccine in Healthy Subjects and Hemodialysis Patients.                                                                                        
+
+⏺ I'll catalogue this book using the full LCSH workflow. Starting with conceptual analysis.
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Phase 1: Examination of Bibliographic Features
+
+  ┌──────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Feature  │                                                                  Observations                                                                   │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title    │ "Respiratory Virology and Immunogenicity" — broad title covering two disciplines: virology of respiratory pathogens and immune responses        │
+  │          │ (immunogenicity)                                                                                                                                │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract │ Narrows scope significantly to influenza specifically — infection, pandemics, molecular basis, vaccine design, vaccination strategies across    │
+  │          │ age groups, immune response to vaccination in various disease conditions                                                                        │
+  ├──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │          │ 7 chapters revealing specific scope: reactive oxygen species/NETosis, childhood immunization in Poland, meningococcal immunoprophylaxis in      │
+  │ TOC      │ military, influenza virus detection (I-MOVE project), cytokines/TLRs in influenza vaccination response, Polish vaccination attitudes, trivalent │
+  │          │  influenza vaccine efficacy in healthy vs. hemodialysis patients                                                                                │
+  └──────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Key observation: The title is broader than the actual content. While it says "Respiratory Virology," the work is overwhelmingly focused on influenza with only
+  minor coverage of other respiratory pathogens (Neisseria meningitidis in one chapter). Per H 180 sec. O, I should focus on the specific topic rather than the
+  general title.
+
+  Phase 2: Wilson's Four Methods
+
+  Purposive Method
+
+  The author's stated purpose is to provide "a modern look on the age-old influenza infection and the preventive role of anti-influenza shots" and to cover
+  "vaccination strategies in various age-groups" and "immune response to influenza vaccination in a spectrum of disease conditions." The intent is to synthesize
+  current knowledge on influenza vaccination and immune responses.
+
+  Figure-Ground Method
+
+  The central figure is influenza vaccines and immune response to vaccination. Influenza vaccination is the dominant thread connecting nearly all chapters.
+  Secondary figures include respiratory virus surveillance and immunization policy.
+
+  Objective Method
+
+  Most frequently referenced concepts across abstract and TOC:
+  - Influenza / influenza vaccination (appears in 5 of 7 chapters + abstract)
+  - Immune response / immunogenicity (appears in abstract + 3 chapters)
+  - Vaccination / immunoprophylaxis (appears throughout)
+  - Respiratory viruses (title + 1 chapter)
+  - Poland as geographic focus (2 chapters explicitly)
+
+  Cohesion Method
+
+  What unifies this collection is the interplay between respiratory viral pathogens (primarily influenza) and the human immune system's response to vaccination.
+  The selection rule: chapters were chosen that examine some aspect of immune response to respiratory infection or vaccination, whether at the molecular level
+  (cytokines, TLRs, NETosis), clinical level (vaccine efficacy), or population level (coverage, attitudes).
+
+  Phase 3: Langridge's Three Questions
+
+  ┌───────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │       Question        │                                                           Answer                                                           │
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q1: What IS it?       │ Natural Science / Medicine — a scientific edited volume (anthology of research contributions)                              │
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q2: What is it ABOUT? │ Influenza vaccines, immune response to influenza vaccination, respiratory virus detection, vaccination policy and coverage │
+  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q3: What is it FOR?   │ Advanced-level medical researchers, immunologists, virologists, and public health professionals                            │
+  └───────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 4: Concept Identification (Joudrey & Taylor)
+
+  1. Discipline
+
+  - Medicine
+  - Immunology
+  - Virology
+
+  2. Topics
+
+  ┌──────────────────────────────────────────────┬──────────────────────────────────────────────────────────────────────────┬─────────────────────────────────┐
+  │                   Concept                    │                                 Evidence                                 │           Prominence            │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Influenza vaccines                           │ Abstract (vaccine design, vaccination strategies), TOC (ch. 4, 5, 6, 7)  │ Dominant — ~70% of content      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Immune response to vaccination /             │ Abstract (immune response), TOC (ch. 1, 5, 7)                            │ Major — ~40% of content         │
+  │ Immunogenicity                               │                                                                          │                                 │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Influenza (the disease/virus)                │ Abstract (influenza infection, pandemic outbreaks, molecular basis), TOC │ Major — ~50% as underlying      │
+  │                                              │  (ch. 4)                                                                 │ subject                         │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Respiratory infections / Respiratory viruses │ Title, TOC (ch. 2, 4)                                                    │ Secondary — ~25%, broader       │
+  │                                              │                                                                          │ framing                         │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Reactive oxygen species / NETosis            │ TOC ch. 1                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Vaccination of children                      │ TOC ch. 2                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Neisseria meningitidis — immunoprophylaxis   │ TOC ch. 3                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Influenza virus detection/surveillance       │ TOC ch. 4                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Cytokines and Toll-like receptors            │ TOC ch. 5                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Vaccination attitudes/perception             │ TOC ch. 6                                                                │ Minor — one chapter (~14%)      │
+  ├──────────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ Hemodialysis patients — vaccination          │ TOC ch. 7                                                                │ Minor — one chapter (~14%)      │
+  └──────────────────────────────────────────────┴──────────────────────────────────────────────────────────────────────────┴─────────────────────────────────┘
+
+  3. Names
+
+  ┌────────────────┬───────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
+  │     Entity     │         Type          │                                        Evidence                                        │
+  ├────────────────┼───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Poland         │ Geographic            │ TOC ch. 2 (primary health care in Poland), ch. 6 (Polish population) — 2 of 7 chapters │
+  ├────────────────┼───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
+  │ I-MOVE project │ Named project/program │ TOC ch. 4 — Influenza Project - Monitoring Vaccine Effectiveness                       │
+  └────────────────┴───────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
+
+  4. Chronological Elements
+
+  No specific time periods identified. The work is contemporary.
+
+  5. Form / Genre
+
+  - Edited volume / anthology of research contributions (multiple chapters by different contributors)
+  - Scientific/medical literature
+
+  ---
+  Aboutness Statement
+
+  ▎ This medical/immunological edited volume examines influenza vaccination from molecular, clinical, and population perspectives. The dominant focus is on
+  influenza vaccines and the immune response to influenza vaccination (immunogenicity), including vaccine design, cytokine/TLR pathways, and efficacy in different
+   patient populations (healthy subjects, hemodialysis patients, children). The broader frame encompasses respiratory infections and their prevention. Two
+  chapters focus specifically on Poland (childhood immunization coverage and public vaccination attitudes). One chapter addresses Neisseria meningitidis 
+  immunoprophylaxis in a military setting, and another covers respiratory virus surveillance. The work is intended for advanced researchers and clinicians in
+  immunology, virology, and public health.
+
+  ---
+  Concepts forwarded to quantitative filtering:
+
+  ┌─────┬─────────────────────────────────────────────────┬────────────────────┐
+  │  #  │                     Concept                     │ Estimated Coverage │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 1   │ Influenza vaccines                              │ ~70%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 2   │ Immune response to vaccination / Immunogenicity │ ~40%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 3   │ Influenza (disease/virus)                       │ ~50%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 4   │ Respiratory infections / Respiratory viruses    │ ~25%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 5   │ Reactive oxygen species / NETosis               │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 6   │ Vaccination of children                         │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 7   │ Neisseria meningitidis — immunoprophylaxis      │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 8   │ Influenza virus detection/surveillance          │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 9   │ Cytokines and Toll-like receptors               │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 10  │ Vaccination attitudes/perception                │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 11  │ Hemodialysis patients — vaccination             │ ~14%               │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 12  │ Poland (geographic)                             │ ~29% (2 chapters)  │
+  ├─────┼─────────────────────────────────────────────────┼────────────────────┤
+  │ 13  │ I-MOVE project (named entity)                   │ ~14%               │
+  └─────┴─────────────────────────────────────────────────┴────────────────────┘
+
+  Now applying quantitative filtering rules.
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering Results
+
+  Step 1: Apply the 20% Rule
+
+  ┌─────┬─────────────────────────────────────────────────┬──────────┬───────┬─────────────────────────────────┬───────────────────────────────┐
+  │  #  │                     Concept                     │ Coverage │ ≥20%? │     Named Entity Exception?     │            Status             │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 1   │ Influenza vaccines                              │ ~70%     │ YES   │ —                               │ PASSES                        │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 2   │ Immune response to vaccination / Immunogenicity │ ~40%     │ YES   │ —                               │ PASSES                        │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 3   │ Influenza (disease/virus)                       │ ~50%     │ YES   │ —                               │ PASSES                        │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 4   │ Respiratory infections / Respiratory viruses    │ ~25%     │ YES   │ —                               │ PASSES                        │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 5   │ Reactive oxygen species / NETosis               │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 6   │ Vaccination of children                         │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 7   │ Neisseria meningitidis — immunoprophylaxis      │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 8   │ Influenza virus detection/surveillance          │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 9   │ Cytokines and Toll-like receptors               │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 10  │ Vaccination attitudes/perception                │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 11  │ Hemodialysis patients — vaccination             │ ~14%     │ NO    │ No                              │ FAILS                         │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 12  │ Poland (geographic)                             │ ~29%     │ YES   │ —                               │ PASSES (as geographic aspect) │
+  ├─────┼─────────────────────────────────────────────────┼──────────┼───────┼─────────────────────────────────┼───────────────────────────────┤
+  │ 13  │ I-MOVE project (named entity)                   │ ~14%     │ NO    │ Not critical to work as a whole │ FAILS                         │
+  └─────┴─────────────────────────────────────────────────┴──────────┴───────┴─────────────────────────────────┴───────────────────────────────┘
+
+  Note on concept 13 (I-MOVE): While named entities can bypass the 20% rule per H 180 sec. N.3, the I-MOVE project appears in only one chapter and is not critical
+   to the work as a whole — it is one surveillance program among many topics. Does not qualify for the exception.
+
+  Step 2: Evaluate Relationships Among Passing Concepts
+
+  Five concepts pass the 20% threshold. Now check for overlap and subsumption:
+
+  Relationship analysis:
+  - Concepts 1 (Influenza vaccines) and 3 (Influenza) — Influenza vaccines is a subtopic of Influenza. Per H 180 sec. I, when a general topic is discussed with
+  emphasis on a subtopic, assign headings for both provided the subtopic is ≥20%. Both qualify.
+  - Concepts 2 (Immune response to vaccination) and 1 (Influenza vaccines) — These are two aspects of a compound topic: the immune system's response specifically
+  to influenza vaccination. Per H 180 sec. M, assign multiple headings to bring out separate aspects.
+  - Concept 4 (Respiratory infections) — This is the broader framing of the title. Influenza is a type of respiratory infection. However, the title explicitly
+  frames the work under "Respiratory Virology," and at least 2 chapters address non-influenza respiratory topics. Per sec. I, assign both the general and
+  specific.
+
+  Check sec. J (encompassing heading): Is there a single heading that encompasses "influenza vaccines + immune response to vaccination"? No single LCSH heading
+  captures both aspects. They remain separate.
+
+  Step 3: Apply Depth of Indexing (H 180 sec. H)
+
+  - Concepts 5–11 are subtopics (~14% each) that would normally be subsumed under the broader assigned headings (influenza vaccines, immunogenicity, respiratory
+  infections). Per sec. H, do not assign separate headings for these.
+
+  Step 4: Apply Rule of Three (H 180 sec. K)
+
+  The sub-20% concepts (5–11) represent 7 subtopics of the broader themes. Since 4+ subtopics exist, the Rule of Three confirms: assign the broad headings rather
+  than individual subtopic headings. This is already satisfied by our passing concepts.
+
+  Step 5: Specificity Check (H 180 sec. G)
+
+  ┌────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │        Passing Concept         │                                           Specificity Assessment                                            │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Influenza vaccines             │ Specific and appropriate — this IS the dominant topic                                                       │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Immune response to vaccination │ May need translation to a more specific LCSH term; check for "Immunogenicity" or "Immune response" headings │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Influenza                      │ Appropriate as the underlying disease/virus                                                                 │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Respiratory infections         │ Appropriate as the broader frame established by the title                                                   │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Poland (geographic)            │ Appropriate as geographic aspect for 2 of 7 chapters (~29%)                                                 │
+  └────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Step 6: Geographic and Other Aspects (H 180 sec. N)
+
+  - Poland appears in 2 of 7 chapters (~29%), passing the 20% threshold. However, Poland is not the geographic focus of the entire work — only of specific
+  chapters on vaccination coverage and attitudes. Per standard practice for edited volumes, Poland should be brought out as a geographic aspect subdividing a
+  relevant heading rather than as a standalone 651, since the work is not about Poland but rather includes Polish vaccination data.
+
+  Step 7: Order by Predominance (H 80)
+
+  1. Influenza vaccines (~70%) — most predominant topic
+  2. Influenza (~50%) — underlying disease, second most predominant
+  3. Immunogenicity / Immune response (~40%) — third
+  4. Respiratory infections (~25%) — broader framing, least predominant of passing concepts
+
+  Poland attaches as a geographic subdivision where applicable, not as a separate primary heading.
+
+  Step 8: LCGFT Assignment (J 110)
+
+  This is an edited volume (anthology of research contributions/chapters). The appropriate LCGFT term is "Essays" — the standard LCGFT term for collections of
+  independent contributions/chapters.
+
+  No other genre/form is identifiable (it is not a handbook, textbook, bibliography, etc.).
+
+  ---
+  Final Filtered Output
+
+  Candidate Subject Headings (ordered by predominance):
+
+  ┌──────────┬─────────────────────────────────────────────────┬──────────────┬────────────────────────────────────────────────────────────────────────┐
+  │ Priority │                     Concept                     │ Heading Type │                                 Notes                                  │
+  ├──────────┼─────────────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────┤
+  │ 1        │ Influenza vaccines                              │ 650 topical  │ Dominant topic (~70%)                                                  │
+  ├──────────┼─────────────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────┤
+  │ 2        │ Influenza                                       │ 650 topical  │ Underlying disease (~50%)                                              │
+  ├──────────┼─────────────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────┤
+  │ 3        │ Immunogenicity / Immune response to vaccination │ 650 topical  │ Third major theme (~40%); needs authority check for exact heading form │
+  ├──────────┼─────────────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────┤
+  │ 4        │ Respiratory infections                          │ 650 topical  │ Broader frame from title (~25%)                                        │
+  └──────────┴─────────────────────────────────────────────────┴──────────────┴────────────────────────────────────────────────────────────────────────┘
+
+  Geographic Aspect:
+
+  - Poland — attach as $z subdivision to a vaccination-related heading if geographic subdivision is authorized
+
+  LCGFT (655):
+
+  - Essays — edited volume of independent contributions
+
+  Concepts NOT assigned (with reasons):
+                                                                                                                                                                
+  ┌───────────────────────────────────┬─────────────────────────────────────────┐                                                                                 
+  │              Concept              │                 Reason                  │
+  ├───────────────────────────────────┼─────────────────────────────────────────┤                                                                                 
+  │ Reactive oxygen species / NETosis │ <20%, subsumed under immunogenicity     │                                                                               
+  ├───────────────────────────────────┼─────────────────────────────────────────┤                                                                                 
+  │ Vaccination of children           │ <20%, subsumed under influenza vaccines │
+  ├───────────────────────────────────┼─────────────────────────────────────────┤                                                                                 
+  │ Neisseria meningitidis            │ <20%, not critical named entity         │                                                                                 
+  ├───────────────────────────────────┼─────────────────────────────────────────┤                                                                                 
+  │ Influenza virus detection         │ <20%, subsumed under influenza          │                                                                                 
+  ├───────────────────────────────────┼─────────────────────────────────────────┤                                                                                 
+  │ Cytokines and Toll-like receptors │ <20%, subsumed under immunogenicity     │
+  ├───────────────────────────────────┼─────────────────────────────────────────┤
+  │ Vaccination attitudes             │ <20%, subsumed under influenza vaccines │
+  ├───────────────────────────────────┼─────────────────────────────────────────┤
+  │ Hemodialysis patients             │ <20%, subsumed under influenza vaccines │
+  ├───────────────────────────────────┼─────────────────────────────────────────┤
+  │ I-MOVE project                    │ <20%, not critical to work as a whole   │                                                                               
+  └───────────────────────────────────┴─────────────────────────────────────────┘                                                                                 
+                                                                                                                                                                
+  Ready for authority validation →                                                                                                                                
+                                                                                                                                                                
+  Now I'll validate these candidate headings against the LC authority files.                                                                                      
+                                                                                                                                                                
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Influenza vaccines" --check 2>&1)                       
+  ⎿  {                                                                                                                            
+       "Influenza vaccines": {                                                                                                                                    
+         "authorized_heading": "Influenza vaccines",                                                                              
+     … +18 lines (ctrl+o to expand)                                                                                                                             
+                                                                                                                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Influenza" --check 2>&1)     
+  ⎿  {                                                                                                                                                            
+       "Influenza": {                                                                                                                                             
+         "authorized_heading": "Influenza",                                                                                                    
+     … +25 lines (ctrl+o to expand)                                                                                                                               
+                                                                                                                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Immunogenicity" --check 2>&1)        
+  ⎿  {                                                                                                                                                            
+       "Immunogenicity": null                                                                                                                                     
+     }                                                                                                                                         
+                                                                                                                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Respiratory infections" --check 2>&1)                   
+  ⎿  {                                                                                                                                       
+       "Respiratory infections": {                                                                                                                                
+         "authorized_heading": "Respiratory infections",                                                                                                          
+     … +29 lines (ctrl+o to expand)                                                                                                                               
+                                                                                                                                                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Essays" -a genreforms --check 2>&1)                     
+  ⎿  {                                                                                                                                                            
+       "Essays": {                                                                                                                                                
+         "authorized_heading": "Essays",                                                                                                                          
+     … +17 lines (ctrl+o to expand)                                                                                                                               
+                                                                                                                                                                  
+⏺ "Immunogenicity" is not an authorized heading. Let me search for alternatives.                                                                                  
+                                                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Immunogenicity" --top 5 2>&1)                                                                                                     
+  ⎿  []                                                                                                                           
+                                                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Immune response" --top 5 2>&1)                                                                                                    
+  ⎿  [                                                                                                                                                          
+       {                                                                                                                                                          
+         "heading": "Immune response",                            
+     … +54 lines (ctrl+o to expand)                                                                                                                               
+                                                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Vaccination" --top 5 2>&1)
+  ⎿  [                                                                                                                                                            
+       {                                                                                                                                                          
+         "heading": "Vaccination",                  
+     … +55 lines (ctrl+o to expand)                                                                                                                               
+                                                                                                                                                                  
+⏺ Authority validation complete. Now let me check one more heading and then synthesize the MARC fields.                                                           
+                                                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Influenza vaccines" --top 3 2>&1 | python3 -c "import sys,json; data=json.load(sys.stdin); [print(f'{r[\"heading\"]}:             
+      geo={r[\"geograph…)                                                                                                                                         
+  ⎿  Influenza vaccines: geo=May subdivide geographically                                                                                                         
+     Influenza virus vaccines: geo=May subdivide geographically                                                                                                   
+     Equine influenza vaccines: geo=May subdivide geographically                                                                                                
+                                                                                                                                                                  
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                   
+  ⎿  Successfully loaded skill                                                                                                                                    
+                                                                                                                                                                
+⏺ MARC 21 Subject Access Fields                                                                                                                                   
+                                                                                                                                                                  
+  Quality Verification                                                                                                                                            
+                                                                                                                                                                  
+  ┌──────────────────────────────────────────────────────────────────────────┬────────┐                                                                           
+  │                                  Check                                   │ Status │                                                                           
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤
+  │ Correct tags for entity types (all topical 650, genre/form 655)          │ PASS   │                                                                           
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                         
+  │ Second indicator 0 for all LCSH headings                                 │ PASS   │
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                         
+  │ Subdivision order: $a → $z → $x → $y                                     │ PASS   │                                                                           
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                           
+  │ No $v form subdivisions (2026 LC practice)                               │ PASS   │                                                                           
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                           
+  │ 655 coding: ind1=blank, ind2=7, $2lcgft                                  │ PASS   │                                                                         
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                           
+  │ 655 placed after all subject heading fields                              │ PASS   │                                                                         
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                           
+  │ Geographic subdivision: Poland is country-level, no interposition needed │ PASS   │                                                                         
+  ├──────────────────────────────────────────────────────────────────────────┼────────┤                                                                           
+  │ Reverse reading test: all strings read coherently in reverse             │ PASS   │                                                                         
+  └──────────────────────────────────────────────────────────────────────────┴────────┘                                                                           
+                                                                                                                                                                
+  Final MARC Output                                                                                                                                               
+                                                                                                                                                                
+  650  0 $aInfluenza vaccines.                                                                                                                                    
+  650  0 $aInfluenza.                                             
+  650  0 $aImmune response.                                                                                                                                       
+  650  0 $aRespiratory infections.                                                                                                                                
+  650  0 $aInfluenza vaccines$zPoland.
+  655  7 $aEssays.$2lcgft                                                                                                                                         
+                                                                                                                                                                  
+  ---                                                                                                                                                             
+  Summary                                                                                                                                                         
+                                                                                                                                                                  
+  ┌───────┬───────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────┐
+  │ Field │            Heading            │                                    Justification                                    │                                 
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                               
+  │ 650 0 │ Influenza vaccines.           │ Dominant topic (~70%) — vaccine design, strategies, efficacy                        │                                 
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                                 
+  │ 650 0 │ Influenza.                    │ Underlying disease/virus (~50%) — infection, pandemics, molecular basis             │                                 
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                                 
+  │ 650 0 │ Immune response.              │ Third major theme (~40%) — immunogenicity, cytokine pathways, antibody response     │                                 
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                                 
+  │ 650 0 │ Respiratory infections.       │ Broader framing from title (~25%) — non-influenza respiratory content in 2 chapters │                                 
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                                 
+  │ 650 0 │ Influenza vaccines $z Poland. │ Geographic aspect (~29%) — 2 chapters on Polish vaccination coverage and attitudes  │                               
+  ├───────┼───────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────┤                                 
+  │ 655 7 │ Essays. $2 lcgft              │ Edited volume of independent research contributions                                 │                               
+  └───────┴───────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────┘                                 
+                                                                                                                                                                
+  Headings ordered by predominance per H 80. Poland subdivided heading follows the general heading per standard practice (H 180 sec. N — geographic aspect brought
+   out separately). No form subdivisions used per 2026 LC practice (H 1075 sec. C.4).                                                                           
+                                                                                                                                                                  
+✻ Brewed for 4m 1s                                                
+                                                                                                                                                                  
+❯ /cost                                                                                                                                                           
+  ⎿  Total cost:            $8.62
+     Total duration (API):  38m 11s                                                                                                                             
+     Total duration (wall): 2h 43m 16s                                                                                                                            
+     Total code changes:    0 lines added, 0 lines removed
+     Usage by model:                                                                                                                                              
+          claude-opus-4-6:  174 input, 116.8k output, 6.1m cache read, 422.0k cache write ($8.62)
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯  
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ bypass permissions on (shift+tab to cycle)                                                                             Image in clipboard · ctrl+v to paste

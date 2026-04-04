@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(find:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(tree:*)",
+      "Bash(chmod:*)",
+      "Bash(/usr/bin/python3:*)",
+      "Bash(__NEW_LINE_53c7a45e5538dd6c__ cd /Users/eric/Downloads/lcsh/.claude/skills/lcsh-authority/scripts)",
+      "Bash(for:*)",
+      "Bash(do echo \"=== $heading ===\")",
+      "Bash(done)",
+      "Bash(json_pp:*)",
+      "Bash(echo:*)",
+      "Bash(git checkout:*)",
+      "Bash(__NEW_LINE_0e2498887aca6fed__ echo \"MARC MODULE FORMATTING FIXES COMPLETED\")",
+      "Bash(cp_marc -n5:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

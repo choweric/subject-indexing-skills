@@ -1,0 +1,424 @@
+❯ Title: Deference revisited : Andean ritual in the plurinational state /\                                                                                         
+\                                                                                                                                                                    
+Abstract: "Indigenous politics reverberates around the globe, impacting international and national agendas. Bolivia is at the forefront of                           
+implementing state reforms that promote indigenous autonomy and identity while agitating against the alleged accomplices of neoliberalism. Into                      
+Goudsmit draws on years of in-depth ethnographic research in the Andean valley of Toracari, providing unique insight into the local impact of these                  
+reforms that, in August 2012, led to the nationalisation of the Canadian junior mining company South American Silver. The local politics of                          
+indigeneity and the conflicts caused by the mining concessions are analysed, concluding that the experiences in Toracari rebuff ubiquitous claims of                 
+structural social transformation. The findings invite an exploration of the cultural dynamics of continuity instead, shifting attention to the most                  
+significant sites of cultural production in Toracari: rituals. Within rituals, the indian population generates cultural models that mould local                      
+deference to the state and landlords. This is ironic as the Bolivian government has adopted indigenous rituals as the language of the                                
+‚Äòre-founded‚Äô state. This ethnography, then, sheds a distinctively Andean light on the debate ‚Äî ranging from symbolic to cognitive anthropology                 
+‚Äîregarding the effectiveness of social practices such as rituals that persuade practitioners to live a proper life in line with durable cultural                   
+models, reproducing reciprocal but asymmetrical relations in the process."--\                                                                                        
+\                                                                                                                                                                    
+TOC:Llanthu ritual : experience of cosmic order -- Praying for government : campesino disengagement from the Bolivian state -- Mining troubles :                     
+perceptions of the state in flux -- Kumbre reciprocity : ritual allure of landlords -- Anti-nation : local symptoms of the politics of indigeneity --                
+ Land : history of landlord resolve -- Beyond indigeneity and land : shifting domains of landlord authority -- Cultural models : deference revisited.                
+                                                                                                                                                                     
+
+⏺ I'll start the cataloging workflow for this ethnography of Andean Bolivia.
+
+  Step 1: Conceptual Analysis
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Conceptual Analysis
+
+  Phase 1: Bibliographic Examination
+
+  ┌──────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Feature  │                                                                    Observations                                                                    │
+  ├──────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title    │ "Deference revisited" signals a theoretical argument about deference/asymmetrical power relations; "Andean ritual in the plurinational state"      │
+  │          │ locates this in Bolivia's post-2009 constitutional context                                                                                         │
+  ├──────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract │ Ethnographic study of Toracari valley; central argument that rituals produce cultural models of deference to state and landlords; challenges       │
+  │          │ claims of structural social transformation under indigenous politics                                                                               │
+  ├──────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ TOC      │ 8 chapters covering: specific rituals (Llanthu, Kumbre), campesino-state relations, mining conflicts, indigeneity politics, landlord authority,    │
+  │          │ cultural models                                                                                                                                    │
+  ├──────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Author   │ Into Goudsmit; years of in-depth ethnographic fieldwork                                                                                            │
+  └──────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 2: Wilson's Four Methods
+
+  Purposive Method (Author's Intent):
+  The author aims to show that indigenous rituals in Toracari generate cultural models that reproduce deference to the state and landlords — countering narratives of
+   structural social transformation under Bolivia's plurinational reforms. The irony highlighted is that the state adopted indigenous rituals as its legitimating
+  language while those same rituals reinforce asymmetrical relations.
+
+  Figure-Ground Method (Central Figure):
+  The central figure is ritual as a mechanism of cultural reproduction — specifically, how Andean rituals produce and maintain deference to authority (state,
+  landlords). The ground against which this stands is Bolivia's plurinational state reforms and indigenous politics.
+
+  Objective Method (Frequency of Concepts):
+  Most frequently referenced concepts across title, abstract, and TOC:
+  - Rituals/ritual practices (title, abstract, 3+ TOC chapters)
+  - Deference / asymmetrical relations (title, abstract, final chapter)
+  - State / government / plurinational state (title, abstract, 3 TOC chapters)
+  - Landlords / landlord authority (abstract, 3 TOC chapters)
+  - Indigeneity / indigenous politics (abstract, 2 TOC chapters)
+  - Mining / mining concessions (abstract, 1 TOC chapter)
+  - Cultural models (abstract, final chapter)
+  - Campesinos (1 TOC chapter)
+
+  Cohesion Method (Unifying Principle):
+  What unifies this work is the argument that rituals reproduce deference in Andean Bolivia — everything included (specific rituals, mining conflicts, landlord
+  relations, indigeneity politics) serves to demonstrate how cultural continuity persists through ritual despite proclaimed state transformation.
+
+  Phase 2: Langridge's Three Questions
+
+  Q1 — What IS it? Human Science (social/cultural anthropology); ethnography
+
+  Q2 — What is it ABOUT? Andean rituals, deference, cultural models, indigenous politics, state-society relations, landlord authority, mining conflicts — all in the
+  Toracari valley of Bolivia
+
+  Q3 — What is it FOR? Scholarly audience in anthropology (symbolic and cognitive anthropology); contributes to debates on ritual effectiveness, cultural
+  reproduction, and indigenous politics in Latin America
+
+  Phase 3: Concept Identification (Joudrey & Taylor)
+
+  ┌───────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                              Concepts Identified                                                              │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Discipline    │ Social/cultural anthropology; ethnography                                                                                                     │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Rites and ceremonies; Deference; Cultural models; Indigenous peoples — Politics and government; State-society relations; Landlord-tenant      │
+  │               │ relations; Mining — Political aspects; Campesinos; Reciprocity; Social change                                                                 │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ Toracari Valley (Bolivia); Bolivia; South American Silver (mining company — minor)                                                            │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ Contemporary period; 2012 nationalization event referenced but not the temporal focus                                                         │
+  ├───────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Form/Genre    │ Ethnography                                                                                                                                   │
+  └───────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 4: Aboutness Statement
+
+  ▎ This scholarly ethnography, grounded in years of fieldwork in the Toracari valley of Bolivia, examines how Andean indigenous rituals produce cultural models of
+  deference to the state and landlords, challenging claims that Bolivia's plurinational reforms have brought structural social transformation. The work analyzes
+  specific rituals (Llanthu, Kumbre), campesino disengagement from the state, mining conflicts including the nationalization of a Canadian mining company, the
+  politics of indigeneity, and the historical roots of landlord authority. It contributes to anthropological debates on ritual effectiveness, cultural reproduction,
+  and indigenous politics in Latin America.
+
+  Concepts for Filtering (Next Phase)
+
+  1. Rites and ceremonies — Andes Region (or Bolivia)
+  2. Indigenous peoples — Bolivia — Politics and government
+  3. Deference
+  4. Landlord and tenant — Bolivia
+  5. Indians of South America — Bolivia — Rites and ceremonies
+  6. Political anthropology — Bolivia
+  7. Ethnology — Bolivia
+  8. Mining — Political aspects — Bolivia
+  9. Campesinos — Bolivia — Political activity
+  10. Toracari Valley (Bolivia) — Social life and customs
+  11. Bolivia — Politics and government
+
+  ---
+  Now I'll move to Step 2: Quantitative Filtering.
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering (H 180)
+
+  Step 1: 20% Rule Application (8 chapters = ~12.5% each)
+
+  ┌─────┬───────────────────────────────────────────────────────────┬───────────────────────────┬────────┬────────────┬─────────────────────────┐
+  │  #  │                          Concept                          │         Chapters          │   %    │   ≥20%?    │ Named Entity Exception? │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 1   │ Rites and ceremonies — Bolivia                            │ Ch 1, 4, + throughout     │ ~40%+  │ YES        │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 2   │ Indigenous peoples — Bolivia — Politics and government    │ Ch 5, + abstract thread   │ ~25%   │ YES        │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 3   │ Deference (theoretical argument)                          │ Ch 8 + framing throughout │ ~25%+  │ YES        │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 4   │ Landlord and tenant — Bolivia                             │ Ch 4, 6, 7                │ ~37.5% │ YES        │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 5   │ Indians of South America — Bolivia — Rites and ceremonies │ Ch 1, 4 + throughout      │ ~40%+  │ YES        │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 6   │ Political anthropology — Bolivia                          │ Framework throughout      │ ~20%   │ BORDERLINE │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 7   │ Ethnology — Bolivia                                       │ Methodology throughout    │ ~20%   │ BORDERLINE │ —                       │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 8   │ Mining — Political aspects — Bolivia                      │ Ch 3 only                 │ ~12.5% │ NO         │ No                      │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 9   │ Campesinos — Bolivia — Political activity                 │ Ch 2 only                 │ ~12.5% │ NO         │ No                      │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 10  │ Toracari Valley (Bolivia)                                 │ Setting for entire work   │ 100%   │ YES        │ Named place             │
+  ├─────┼───────────────────────────────────────────────────────────┼───────────────────────────┼────────┼────────────┼─────────────────────────┤
+  │ 11  │ Bolivia — Politics and government                         │ Background throughout     │ ~30%   │ YES        │ Named place             │
+  └─────┴───────────────────────────────────────────────────────────┴───────────────────────────┴────────┴────────────┴─────────────────────────┘
+
+  Eliminated by 20% rule: Mining (#8), Campesinos (#9) — each occupies only ~1 chapter of 8.
+
+  Step 2: Overlap and Subsumption Check
+
+  - #1 and #5 overlap significantly. "Rites and ceremonies" and "Indians of South America — Rites and ceremonies" — concept #5 is more specific (identifies the
+  population performing the rituals). Per specificity principle (H 180 sec. G), prefer the more specific heading. However, #1 captures the broader Andean ritual
+  framework. Both may be warranted if they serve distinct retrieval purposes.
+  - #3 (Deference) — This is the author's central theoretical concept. Need to verify if "Deference" exists as an LCSH heading; if not, the concept may be expressed
+  through the combination of other headings (power relations, patron-client relationships).
+  - #6 and #7 overlap — Political anthropology and Ethnology are both disciplinary/methodological framings. Per depth of indexing (H 180 sec. H), the methodology is
+  subsumed by the subject content. Ethnology (#7) is essentially what the work IS, not what it's ABOUT. Eliminate #7 as subsumed by the ethnographic approach
+  implicit in the subject headings. Retain #6 (Political anthropology) as it captures the disciplinary lens more specifically.
+
+  Step 3: Rule of Three Check
+
+  Looking at the landlord-related chapters (Ch 4, 6, 7): these address landlord-tenant relations, landlord authority, and land — these are facets of a single broad
+  topic (landlord authority/deference). No Rule of Three concern — they form one coherent subject, not 4+ subtopics of a broader category.
+
+  Step 4: Specificity and Ordering (H 80)
+
+  Ordering by predominance:
+
+  1. Indians of South America — Bolivia — Rites and ceremonies (most specific expression of dominant topic — ritual + indigenous population + place)
+  2. Deference (central theoretical argument — title word, framing concept)
+  3. Landlord and tenant — Bolivia (second major theme — 3 chapters)
+  4. Indigenous peoples — Bolivia — Politics and government (contextual political framing)
+  5. Political anthropology — Bolivia (disciplinary approach)
+  6. Toracari Valley (Bolivia) — Social life and customs (geographic setting — named entity)
+  7. Bolivia — Politics and government (national political context)
+
+  Step 5: LCGFT (J 110)
+
+  The work is explicitly described as an ethnography. Assign:
+  - Ethnography (655 field)
+
+  Candidate Headings for Authority Validation
+
+  Topical (650):
+  1. Indians of South America — Bolivia — Rites and ceremonies
+  2. Deference (needs authority verification)
+  3. Landlord and tenant — Bolivia
+  4. Indigenous peoples — Bolivia — Politics and government
+  5. Political anthropology — Bolivia
+
+  Geographic (651):
+  6. Toracari Valley (Bolivia) — Social life and customs
+  7. Bolivia — Politics and government
+
+  Genre/Form (655):
+  8. Ethnography
+
+  ---
+  Now I'll proceed to Step 3: Authority Validation. Let me check these headings against the LC authority files.
+
+⏺ Skill(lc-authority)
+  ⎿  Successfully loaded skill
+
+⏺ I'll run authority checks for all the candidate headings in parallel.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Indians of South America" --check)
+  ⎿  {
+       "Indians of South America": {
+         "authorized_heading": "Indians of South America",
+     … +26 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Deference" --check)
+  ⎿  {
+       "Deference": {
+         "authorized_heading": "Respect",
+     … +14 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Landlord and tenant" --check)
+  ⎿  {
+       "Landlord and tenant": {
+         "authorized_heading": "Landlord and tenant",
+     … +36 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Indigenous peoples" --check)
+  ⎿  {
+       "Indigenous peoples": {
+         "authorized_heading": "Indigenous peoples",
+     … +12 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Political anthropology" --check)
+  ⎿  {
+       "Political anthropology": {
+         "authorized_heading": "Political anthropology",
+     … +23 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Rites and ceremonies" --check)
+  ⎿  {
+       "Rites and ceremonies": {
+         "authorized_heading": "Rites and ceremonies",
+     … +17 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Toracari Valley" --check)
+  ⎿  {
+       "Toracari Valley": {
+         "authorized_heading": "Valleys",
+     … +25 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Bolivia" --check)
+  ⎿  {
+       "Bolivia": {
+         "authorized_heading": "Bolivia--Languages",
+     … +34 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Ethnography" -a genreforms --check)
+  ⎿  {
+       "Ethnography": {
+         "authorized_heading": "Ethnographies",
+     … +23 lines (ctrl+o to expand)
+
+⏺ Let me run a few more targeted checks for headings that need further investigation.
+
+⏺ Bash(python3 tfidf_search.py "Bolivia Politics and government" --top 5)
+  ⎿  [
+       {
+         "heading": "Bolivia--Politics and government",
+     … +51 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Indigenous peoples Bolivia" --top 5)
+  ⎿  [
+       {
+         "heading": "Indigenous peoples",
+     … +60 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Deference" --top 5)
+  ⎿  [
+       {
+         "heading": "Deference",
+     … +61 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Indians of South America Bolivia Rites and ceremonies" --top 5)
+  ⎿  [
+       {
+         "heading": "Indians of South America--Rites and ceremonies",
+     … +49 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Respect" --check)
+  ⎿  {
+       "Respect": {
+         "authorized_heading": "Respect",
+     … +17 lines (ctrl+o to expand)
+
+⏺ Let me check a couple more headings that may better capture the theoretical concepts.
+
+⏺ Bash(python3 tfidf_search.py "Indians of South America--Bolivia--Rites and ceremonies" --check)
+  ⎿  {
+       "Indians of South America--Bolivia--Rites and ceremonies": {
+         "authorized_heading": "Indians of South America--Rites and ceremonies",
+     … +12 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Patron and client" --check)
+  ⎿  {
+       "Patron and client": {
+         "authorized_heading": "Patron and client",
+     … +19 lines (ctrl+o to expand)
+
+⏺ Now I have all the authority validation results. Here's the summary:
+                                                                                                                                  
+  Authority Validation Results
+                                                                                                                                                                     
+  ┌─────┬─────────────────────────────────────────────────────────┬────────────────────────────┬───────────────────┬────────────────────────────────────────────┐    
+  │  #  │                         Heading                         │           Status           │    Geo Subdiv     │                   Notes                    │    
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 1   │ Indians of South America                                │ Authorized (150)           │ May subdivide geo │ Base heading for construction              │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 2   │ Rites and ceremonies                                    │ Authorized (180            │ —                 │ Valid $x under Indians of South America    │    
+  │     │                                                         │ subdivision)               │                   │                                            │    
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 3   │ Indians of South America--Bolivia--Politics and         │ Pre-coordinated (150)      │ Found in          │ Exact match                                │    
+  │     │ government                                              │                            │ authority         │                                            │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 4   │ Deference                                               │ UF → Respect               │ Not authorized    │ Poor conceptual fit; replaced              │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 5   │ Landlord and tenant                                     │ Authorized (150)           │ May subdivide geo │                                            │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 6   │ Political anthropology                                  │ Authorized (150)           │ May subdivide geo │                                            │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 7   │ Toracari Valley (Bolivia)                               │ Not found                  │ —                 │ Not established; dropped                   │
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤    
+  │ 8   │ Bolivia--Politics and government--2006-                 │ Authorized (151)           │ —                 │ Best chronological fit for plurinational   │
+  │     │                                                         │                            │                   │ state                                      │    
+  ├─────┼─────────────────────────────────────────────────────────┼────────────────────────────┼───────────────────┼────────────────────────────────────────────┤
+  │ 9   │ Ethnographies                                           │ Authorized LCGFT (155)     │ —                 │ Plural form; gf-prefixed                   │
+  └─────┴─────────────────────────────────────────────────────────┴────────────────────────────┴───────────────────┴────────────────────────────────────────────┘    
+  
+  Key decisions:                                                                                                                                                     
+  - "Deference" → dropped as standalone. LCSH maps it to "Respect" which doesn't capture the sociological concept. The deference dynamics are expressed through the
+  combination of other headings.                                                                                                                                     
+  - "Toracari Valley" → dropped. Not established in LCSH.
+  - "Indigenous peoples" → replaced by the more specific pre-coordinated heading "Indians of South America--Bolivia--Politics and government."                       
+  - Bolivia--Politics and government--2006- preferred over the undated form to match the plurinational state period (Morales era onward).                            
+                                                                                                                                                                     
+  Now Step 4: MARC 6xx Synthesis.                                                                                                                                    
+                                                                                                                                                                     
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                        
+  ⎿  Successfully loaded skill                                                                                                                                       
+                                                                  
+⏺ MARC 21 Subject Access Fields                                                                                                                                      
+                                                                                                                                  
+  Applying H 1075 subfield ordering ($a → $z → $x → $y), H 830 geographic subdivision rules, and 2026 LCGFT practice:                                                
+                                                                                                                                                                     
+  650 #0 $aIndians of South America$zBolivia$xRites and ceremonies.                                                                                                  
+  650 #0 $aIndians of South America$zBolivia$xPolitics and government.                                                                                               
+  650 #0 $aLandlord and tenant$zBolivia.                                                                                                                             
+  650 #0 $aPolitical anthropology$zBolivia.                                                                                                                          
+  651 #0 $aBolivia$xPolitics and government$y2006-                                                                                                                   
+  655 #7 $aEthnographies.$2lcgft                                                                                                                                     
+                                                                  
+  Field-by-Field Rationale                                                                                                                                           
+  
+  ┌──────────────────────────────────────────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │                  Field                   │ Tag/Ind │                                                Rationale                                                │
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Indians of South America$zBolivia$xRites │ 650 #0  │ Predominant topic (H 80). Base heading authorized for geo subdiv; $z Bolivia interposed per H 830; $x   │
+  │  and ceremonies                          │         │ Rites and ceremonies authorized as topical subdivision (180 field).                                     │
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Indians of South                         │         │ Pre-coordinated heading found in authority file. Indigenous political engagement/disengagement with the │
+  │ America$zBolivia$xPolitics and           │ 650 #0  │  plurinational state.                                                                                   │   
+  │ government                               │         │                                                                                                         │
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Landlord and tenant$zBolivia             │ 650 #0  │ Authorized (150), may subdivide geographically. Covers 3 TOC chapters on landlord authority, land       │   
+  │                                          │         │ history, and ritual deference to landlords.                                                             │
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Political anthropology$zBolivia          │ 650 #0  │ Authorized (150), may subdivide geographically. Captures the disciplinary framework (symbolic to        │   
+  │                                          │         │ cognitive anthropology).                                                                                │
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │                                          │         │ Authorized pre-coordinated heading (151). Chronological subdivision $y 2006- captures the               │   
+  │ Bolivia$xPolitics and government$y2006-  │ 651 #0  │ Morales/plurinational state period. National political context distinct from indigenous-specific        │
+  │                                          │         │ heading #2.                                                                                             │   
+  ├──────────────────────────────────────────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Ethnographies                            │ 655 #7  │ Authorized LCGFT term (155, gf-prefixed). Work is explicitly an ethnography based on years of           │
+  │                                          │         │ fieldwork. $2lcgft per J 105. No subdivisions per J 110 sec. 7.                                         │   
+  └──────────────────────────────────────────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                                                                                                                                     
+  Quality Checks                                                  
+
+  - Correct tags: 650 for topical, 651 for geographic, 655 for genre/form                                                                                            
+  - Second indicator: 0 for LCSH headings, 7 for LCGFT
+  - Subfield order: $a → $z → $x → $y throughout                                                                                                                     
+  - No $v form subdivisions (2026 LCGFT practice)                                                                                                                    
+  - Geographic subdivision uses indirect method (Bolivia directly, no further subdivision needed)
+  - Two-level maximum respected                                                                                                                                      
+  - 655 placed after all subject headings                         
+  - LCGFT term not subdivided
+  - Headings ordered by predominance (H 80)                                                                                                                          
+  - Total headings: 6 (within typical maximum)                                                                                                                       
+                                                                                                                                                                     
+  Dropped Headings                                                                                                                                                   
+                                                                                                                                                                     
+  ┌──────────────────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │            Candidate             │                                                      Reason Dropped                                                       │
+  ├──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Deference / Respect              │ "Deference" is UF→"Respect" which doesn't capture the sociological concept; dynamics expressed through combination of     │
+  │                                  │ other headings                                                                                                            │
+  ├──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Toracari Valley (Bolivia)        │ Not established in LCSH; cannot assign as 651                                                                             │
+  ├──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Ethnology--Bolivia               │ Subsumed by ethnographic approach implicit in subject headings; methodology, not aboutness                                │
+  ├──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Campesinos--Bolivia              │ Below 20% threshold (~1 chapter of 8)                                                                                     │   
+  ├──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Mining--Political                │ Below 20% threshold (~1 chapter of 8)                                                                                     │   
+  │ aspects--Bolivia                 │                                                                                                                           │
+  └──────────────────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘   
+                         

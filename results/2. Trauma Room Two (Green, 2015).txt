@@ -1,0 +1,413 @@
+❯ Title: Trauma room two /\                                                                                                                                      
+\
+Abstract: In every hospital emergency department there is a room reserved for trauma. It is a place where life and death are separated by the thinnest of      
+margins. A place where some families celebrate the most improbable of victories while others face the most devastating of losses. A place where what matters   
+the most in this life is revealed. Trauma Room Two is just such a place. In this collection of short stories, Dr. Green takes the reader inside the hidden     
+emotional landscape of emergency medicine. Based on fifteen years of experience as an ER physician, he reveals the profound moments that often occur in        
+emergency rooms for patients, their families, and the staff that work there.\                                                                                  
+\
+TOC: Mistakes -- Transitions -- Night shift -- The crew -- Saviors -- Status epilepticus -- Family -- Hands -- Wyoming snow -- Jeopardy -- Otis -- Honor --    
+Distractions -- Please choose one -- Ghosts -- Remember this.\                                                                                                 
+
+⏺ I'll catalog this book using the full LCSH workflow. Starting with conceptual analysis.
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Phase 1: Examine the Resource
+
+  ┌─────────────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │     Feature     │                                                             Observation                                                              │
+  ├─────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title           │ "Trauma room two" — literal reference to a trauma bay in a hospital ED; not metaphorical                                             │
+  ├─────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Creator         │ "Dr. Green" — an ER physician with 15 years of experience                                                                            │
+  ├─────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract        │ Explicitly states this is a "collection of short stories" based on the author's ER experience; focuses on emotional/human dimensions │
+  │                 │  of emergency medicine                                                                                                               │
+  ├─────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ TOC             │ 16 chapter titles, mostly evocative single words or short phrases (e.g., "Night shift," "Status epilepticus," "Wyoming snow,"        │
+  │                 │ "Ghosts"). Suggests vignette-style narratives, each a self-contained story                                                           │
+  ├─────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Subject         │ Emergency rooms, trauma, patients, families, medical staff, life-and-death situations, emotional landscape                           │
+  │ indicators      │                                                                                                                                      │
+  └─────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 2: Conceptual Analysis
+
+  Wilson's Four Methods
+
+  Purposive Method — The author's intent is to take the reader "inside the hidden emotional landscape of emergency medicine" and reveal "the profound moments
+  that often occur in emergency rooms." Purpose: to illuminate the human side of ER work through narrative.
+
+  Figure-Ground Method — The central figure is emergency medicine as lived human experience — not clinical/technical medicine, but the emotional and
+  existential dimensions of working in and passing through an emergency room. The trauma room itself is the unifying setting.
+
+  Objective Method — Key recurring concepts: emergency rooms/departments, trauma, patients, families, staff, life and death, emotional experience. "Status
+  epilepticus" in the TOC is the only clinical term; the rest are universal human themes.
+
+  Cohesion Method — What unifies the 16 stories is the emergency room setting and the emotional/human moments that occur there. The rule of selection: each
+  story captures a profound moment from the author-physician's ER experience.
+
+  Langridge's Three Questions
+
+  ┌────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │      Question      │                                                              Answer                                                               │
+  ├────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q1: What IS it?    │ Personal experience / Art — short stories drawn from professional medical experience. Form of knowledge: personal experience      │
+  │                    │ rendered as literary fiction                                                                                                      │
+  ├────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q2: What is it     │ Emergency medicine; hospital emergency departments; the emotional experiences of patients, families, and medical staff in         │
+  │ ABOUT?             │ trauma/emergency situations                                                                                                       │
+  ├────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q3: What is it     │ General adult readership; intended to provide insight into the human dimensions of emergency medicine                             │
+  │ FOR?               │                                                                                                                                   │
+  └────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 3: Identify Concept Types
+
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                           Concepts Identified                                                           │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Discipline    │ Medicine (emergency medicine); Literature (short fiction)                                                                               │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Emergency medicine, hospital emergency services, emergency physicians — professional life/experience, patients and families — emotional │
+  │               │  experience, life and death in medical settings                                                                                         │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ No named entities of cataloging significance (Dr. Green is the author, not a subject; "Wyoming" appears in one chapter title but is not │
+  │               │  a geographic focus of the work as a whole)                                                                                             │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ Contemporary (no specific period indicated)                                                                                             │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Form/Genre    │ Short stories; medical fiction                                                                                                          │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 4: Aboutness Statement
+
+  ▎ This is a collection of short stories by an emergency physician, drawn from fifteen years of experience working in hospital emergency departments. The
+  stories explore the emotional and human dimensions of emergency medicine — the experiences of patients, their families, and the medical staff who care for
+  them in life-and-death situations. The work is literary fiction grounded in professional medical experience, intended for a general adult audience.
+
+  Concepts for Translation
+
+  ┌─────┬────────────────────────────────────────────┬────────────────────┬────────────────────────────────────────────────────────────────────┐
+  │  #  │                  Concept                   │        Type        │                               Notes                                │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 1   │ Emergency medicine                         │ Topic (discipline) │ Central setting and subject domain                                 │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 2   │ Hospital emergency services                │ Topic              │ The institutional setting (emergency departments, trauma rooms)    │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 3   │ Emergency physicians                       │ Topic              │ Author's professional identity; stories told from this perspective │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 4   │ Patients — emotional/psychological aspects │ Topic              │ Major focus per abstract                                           │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 5   │ Families of critically ill patients        │ Topic              │ Explicitly highlighted in abstract                                 │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 6   │ Medical personnel — attitudes/psychology   │ Topic              │ Staff experience is a stated focus                                 │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 7   │ Life and death / end-of-life situations    │ Topic              │ Thematic thread per abstract                                       │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 8   │ Short stories                              │ Form/Genre         │ Explicitly stated in abstract                                      │
+  ├─────┼────────────────────────────────────────────┼────────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 9   │ Medical fiction                            │ Form/Genre         │ Fiction based on medical experience                                │
+  └─────┴────────────────────────────────────────────┴────────────────────┴────────────────────────────────────────────────────────────────────┘
+
+  Ready for quantitative filtering (next phase).                                                                                                                                                 
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering Results
+
+  Step 1: 20% Rule Assessment
+
+  ┌─────┬──────────────────────────────────┬────────────┬──────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │  #  │             Concept              │   ≥20%?    │                                            Rationale                                             │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 1   │ Emergency medicine               │ Yes        │ Central setting/domain of entire work; every story takes place in this context                   │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 2   │ Hospital emergency services      │ Yes        │ The institutional setting (emergency departments, trauma rooms) pervades all 16 stories          │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 3   │ Emergency physicians             │ Yes        │ Narrative perspective throughout; the author-physician's experience is the lens for every story  │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 4   │ Patients —                       │ Yes        │ Explicitly stated focus in abstract; patients appear across all stories                          │
+  │     │ emotional/psychological aspects  │            │                                                                                                  │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 5   │ Families of critically ill       │ Borderline │ Highlighted in abstract but likely not dominant in all 16 chapters — some chapters focus on      │
+  │     │ patients                         │            │ staff ("The crew," "Night shift") or individual patients ("Otis," "Status epilepticus")          │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 6   │ Medical personnel —              │ Yes        │ Staff experience is a stated focus; multiple TOC entries suggest staff-centered stories ("Night  │
+  │     │ attitudes/psychology             │            │ shift," "The crew," "Saviors," "Distractions")                                                   │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 7   │ Life and death / end-of-life     │ Borderline │ Thematic thread but very general; subsumed under the emergency medicine setting                  │
+  │     │ situations                       │            │                                                                                                  │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 8   │ Short stories                    │ Yes        │ Form/Genre — the entire work IS a short story collection                                         │
+  ├─────┼──────────────────────────────────┼────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 9   │ Medical fiction                  │ Yes        │ Form/Genre — fiction based on medical experience                                                 │
+  └─────┴──────────────────────────────────┴────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Step 2: Depth of Indexing / Subsumption Check
+
+  Concepts 1, 2, and 3 overlap significantly:
+  - Emergency medicine (the discipline) and Hospital emergency services (the institutional setting) are closely related. However, they represent different
+  facets — one is the medical specialty, the other is the place/service.
+  - Emergency physicians is a subtopic of emergency medicine personnel, but here it represents a specific professional perspective that is the narrative lens.
+
+  Concept 7 (Life and death) is too general and thematic — it is subsumed by the emergency medicine context. Remove.
+
+  Concept 5 (Families of critically ill patients) — while mentioned in the abstract, the TOC suggests the work is broader than just family experience. This is
+  subsumed under the general patient/emergency room experience. Remove.
+
+  Step 3: Rule of Three Check
+
+  Concepts 1, 2, 3, 4, and 6 are all facets of emergency medicine experience. Do they trigger the Rule of Three?
+
+  These are not subtopics of a single broader heading — they represent different facets (discipline, setting, practitioners, patients, staff psychology). The
+  Rule of Three applies when 4+ subtopics of a single broader topic are discussed. Here, the concepts are multi-element (H 180 sec. M) — different aspects of a
+   complex compound topic. Multiple headings are appropriate.
+
+  Step 4: Encompassing Heading Check (sec. J)
+
+  Is there a single heading that encompasses concepts 1+2+3+4+6? No single LCSH heading captures "the emotional experience of emergency medicine for
+  physicians, patients, and staff." These require multiple headings.
+
+  However, concepts 1 and 2 (Emergency medicine and Hospital emergency services) are very close. Check authority files to determine the best specific heading.
+
+  Step 5: Specificity Check
+
+  - Concept 4 (Patients — emotional aspects): Need to find the most specific authorized heading
+  - Concept 6 (Medical personnel — attitudes/psychology): Need to find the most specific authorized heading
+
+  Step 6: LCGFT Assignment (J 110)
+
+  ┌─────────────────┬────────────────────────────────────────────────────────────────────┐
+  │   Genre/Form    │                             Rationale                              │
+  ├─────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ Short stories   │ Explicitly stated: "this collection of short stories"              │
+  ├─────────────────┼────────────────────────────────────────────────────────────────────┤
+  │ Medical fiction │ Fiction based on medical experience — check if authorized in LCGFT │
+  └─────────────────┴────────────────────────────────────────────────────────────────────┘
+
+  Filtered Candidate Headings (for authority validation)
+
+  Topical (650):
+  1. Emergency medicine — predominant discipline/setting
+  2. Hospital emergency services — institutional setting (check if this or a variant is authorized)
+  3. Emergency physicians — narrative perspective throughout
+  4. Patients — with possible psychological/emotional subdivision
+  5. Medical personnel — with possible attitudinal subdivision
+
+  Genre/Form (655):
+  6. Short stories
+  7. Medical fiction
+
+  Ordering by predominance (H 80): Emergency medicine is the predominant topic. Emergency physicians as narrative lens is second. Patient/staff experience
+  follows.
+
+  Ready for authority validation (next phase).                                                                                                                                                
+
+⏺ Now I'll validate each candidate heading against the LC authority files. Let me check them all.
+
+⏺ Skill(lc-authority)
+  ⎿  Successfully loaded skill
+
+⏺ I'll check all candidate headings against the authority files now.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Emergency medicine" --check)
+  ⎿  {
+       "Emergency medicine": {
+         "authorized_heading": "Emergency medicine",
+     … +22 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Hospital emergency services" --check)
+  ⎿  {            
+       "Hospital emergency services": {
+         "authorized_heading": "Hospitals--Emergency services",                                                                         
+     … +17 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Emergency physicians" --check)
+  ⎿  {            
+       "Emergency physicians": {
+         "authorized_heading": "Emergency physicians",                                                                               
+     … +18 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Patients" --check)                   
+  ⎿  {            
+       "Patients": {
+         "authorized_heading": "Patients",                                                                                                       
+     … +15 lines (ctrl+o to expand)
+                                  
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Medical personnel" --check)            
+  ⎿  {                                                                                                                            
+       "Medical personnel": {                                                                                                     
+         "authorized_heading": "Medical personnel",                                                                                                            
+     … +16 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Short stories" -a genreforms --check)                
+  ⎿  {                                                                                                                                                         
+       "Short stories": {                                                                                                                                      
+         "authorized_heading": "Short stories",                                                                                                                
+     … +19 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Medical fiction" -a genreforms --check)              
+  ⎿  {                                                                                                                                                         
+       "Medical fiction": {                                                                                                                                    
+         "authorized_heading": "Medical fiction",                                                                                                              
+     … +18 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ I notice that "Patients" and "Medical personnel" returned as MARC 180 fields (subdivisions only, not main headings). Let me search for usable main heading   
+  alternatives.                                                                                                                   
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Patients" --top 10)                                                                                                            
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Patients",                                                                                                                                
+     … +45 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Medical personnel" --top 10)                                                                                                   
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Medical personnel",                                                                                                                       
+     … +54 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Physician and patient" --check)                                                                                                
+  ⎿  {                                                                                                                                                         
+       "Physician and patient": {                                                                                                                              
+         "authorized_heading": "Physician and patient",                                                                                                        
+     … +25 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Good. Now I have complete authority validation results. Here's the summary:                                                                                  
+                                                                                                                                                               
+  Authority Validation Results                                                                                                                                 
+                                                                                                                                                               
+  ┌─────┬──────────────────────────┬─────────────────────────────────────┬─────────────────────────────┬──────────────────────────────────┬──────────────┐     
+  │  #  │    Candidate Heading     │          Authority Status           │       Authorized Form       │            MARC Field            │  Geo Subdiv  │     
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤     
+  │ 1   │ Emergency medicine       │ Authorized                          │ Emergency medicine          │ 150 $aEmergency medicine         │ May          │
+  │     │                          │                                     │                             │                                  │ subdivide    │
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤     
+  │ 2   │ Hospital emergency       │ UF reference →                      │ Hospitals--Emergency        │ 150 $aHospitals$xEmergency       │ May          │     
+  │     │ services                 │                                     │ services                    │ services                         │ subdivide    │     
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤     
+  │ 3   │ Emergency physicians     │ Authorized                          │ Emergency physicians        │ 150 $aEmergency physicians       │ May          │
+  │     │                          │                                     │                             │                                  │ subdivide    │     
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤
+  │ 4   │ Patients                 │ Authorized (both 150 and 180 forms  │ Patients                    │ 150 $aPatients                   │ May          │     
+  │     │                          │ exist)                              │                             │                                  │ subdivide    │
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤
+  │ 5   │ Medical personnel        │ Authorized (both 150 and 180 forms  │ Medical personnel           │ 150 $aMedical personnel          │ May          │
+  │     │                          │ exist)                              │                             │                                  │ subdivide    │     
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤
+  │ 6   │ Short stories            │ Authorized (LCGFT)                  │ Short stories               │ 155 $aShort stories              │ N/A          │     
+  ├─────┼──────────────────────────┼─────────────────────────────────────┼─────────────────────────────┼──────────────────────────────────┼──────────────┤     
+  │ 7   │ Medical fiction          │ Authorized (LCGFT)                  │ Medical fiction             │ 155 $aMedical fiction            │ N/A          │
+  └─────┴──────────────────────────┴─────────────────────────────────────┴─────────────────────────────┴──────────────────────────────────┴──────────────┘     
+                                                                  
+  Additional finding                                                                                                                                           
+                                                                  
+  - Physician and patient — Authorized (150 $aPhysician and patient). This heading captures the relational dynamic between doctors and patients that is central
+   to the stories, and may be a better fit than separate "Patients" and "Medical personnel" headings.
+                                                                                                                                                               
+  Heading Refinement Decisions                                                                                                                                 
+   
+  1. Emergency medicine — Keep. Central discipline of the entire work.                                                                                         
+  2. Hospitals--Emergency services — Keep. More specific than Emergency medicine for the actual setting (hospital trauma rooms, not field medicine). Use
+  authorized form with $x subdivision.                                                                                                                         
+  3. Emergency physicians — Keep. The physician's perspective is the narrative lens throughout.
+  4. Physician and patient — Replace separate Patients + Medical personnel headings with this. It captures the relational dynamic between doctors, patients,   
+  and families that the abstract highlights as the core emotional content. More specific and cohesive than two broad standalone headings.                      
+  5. Short stories — Keep. LCGFT authorized.                                                                                                                   
+  6. Medical fiction — Keep. LCGFT authorized.                                                                                                                 
+                                                                                                                                                               
+  Validated Headings for MARC Synthesis                                                                                                                        
+                                                                                                                                                               
+  Topical (650), ordered by predominance:                                                                                                                      
+  1. Emergency medicine                                           
+  2. Hospitals--Emergency services                                                                                                                             
+  3. Emergency physicians                                         
+  4. Physician and patient                                                                                                                                     
+                          
+  Genre/Form (655):                                                                                                                                            
+  5. Short stories                                                                                                                                             
+  6. Medical fiction
+                                                                                                                                                               
+  Ready for MARC 6XX synthesis (final phase).                                                                                                                                                                                                                                                               
+                                                                                                                                                               
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                  
+  ⎿  Successfully loaded skill                                                                                                                                 
+                                                                                                                                                               
+⏺ MARC 21 Subject Access Fields                                                                                                                                
+                                                                                                                                  
+  Quality Pre-checks                                                                                                                                           
+                                                                                                                                                               
+  ┌──────────────────────────────────────────┬──────────────────────────────────────────────────────────────────────────┐                                      
+  │                  Check                   │                                  Result                                  │                                      
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ Correct tags for entity types?           │ 650 for topical, 655 for genre/form — no name/geographic subjects needed │
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
+  │ Subdivision order ($a → $z → $x → $y)?   │ No subdivisions needed — all headings are unsubdivided                   │                                      
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ No $v form subdivisions?                 │ Correct — genre/form expressed via LCGFT 655 fields                      │                                      
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ Geographic subdivision needed?           │ No — work has no geographic focus                                        │                                    
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ Chronological subdivision needed?        │ No — work has no temporal focus                                          │                                    
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ LCGFT terms not subdivided?              │ Correct                                                                  │                                    
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ 655 coding: ind1=blank, ind2=7, $2lcgft? │ Yes                                                                      │                                    
+  ├──────────────────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤                                      
+  │ Ordered by predominance (H 80)?          │ Yes                                                                      │                                    
+  └──────────────────────────────────────────┴──────────────────────────────────────────────────────────────────────────┘                                      
+                                                                                                                                                             
+  Final MARC Fields                                                                                                                                            
+                                                                                                                                                             
+  650  0 $aEmergency medicine.                                                                                                                                 
+  650  0 $aHospitals$xEmergency services.                                                                                                                      
+  650  0 $aEmergency physicians.                                                                                                                               
+  650  0 $aPhysician and patient.                                                                                                                              
+  655  7 $aShort stories.$2lcgft                                                                                                                               
+  655  7 $aMedical fiction.$2lcgft                                                                                                                             
+                                                                                                                                                               
+  Field-by-Field Justification                                                                                                                                 
+                                                                                                                                                               
+  ┌───────┬──────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐    
+  │ Field │         Heading          │                                                     Rationale                                                      │
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 650   │ Emergency medicine.      │ Predominant discipline; the entire work is set within and about this field                                         │
+  │ #0    │                          │                                                                                                                    │
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 650   │ Hospitals$xEmergency     │ Specific institutional setting — hospital trauma rooms/emergency departments. Authorized form uses $x (not $z)     │    
+  │ #0    │ services.                │ since "Emergency services" is a topical subdivision of "Hospitals." More specific than the discipline heading      │    
+  │       │                          │ above                                                                                                              │    
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ 650   │ Emergency physicians.    │ The narrative perspective throughout all 16 stories; author's professional identity as ER physician is the lens    │  
+  │ #0    │                          │ for every story                                                                                                    │    
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 650   │ Physician and patient.   │ Captures the central relational dynamic — the "hidden emotional landscape" between doctors, patients, and families │    
+  │ #0    │                          │  described in the abstract                                                                                         │    
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 655   │ Short stories.$2lcgft    │ Explicitly stated in abstract: "this collection of short stories"                                                  │    
+  │ #7    │                          │                                                                                                                    │    
+  ├───────┼──────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ 655   │ Medical fiction.$2lcgft  │ Fiction based on medical experience. LCGFT UF variants include "Hospital fiction" and "Doctor fiction," confirming │    
+  │ #7    │                          │  this is the precise term                                                                                          │    
+  └───────┴──────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+                                                                                                                                                               
+  Reverse-reading Test (H 1075 sec. E)                                                                                                                         
+                                                                                                                                                             
+  - "Hospitals$xEmergency services" → Emergency services of hospitals ✓ (correct meaning)                                                                      
+  - All other headings are unsubdivided — no order ambiguity                                                                                                 
+                                                                                                                                                               
+  Notes                                                                                                                                                      
+                                                                                                                                                               
+  - No geographic subdivision applied: while one chapter mentions Wyoming, it does not constitute a geographic focus for the work as a whole                   
+  - No chronological subdivision: the work is contemporary with no stated time period                                                                        
+  - No name headings (600/610/611): "Dr. Green" is the author, not a subject of the work                                                                       
+  - Heading count: 4 topical + 2 genre/form = 6 total (within LC practice guidelines)                                                                          
+                                                                                                                                                               
+                                                                                                              
+                                                                                                                                                               
+                                                                                                                                                               
+

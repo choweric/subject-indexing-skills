@@ -1,0 +1,322 @@
+❯ Title: Artificial black holes /\ 
+\
+Abstract: "Physicists are pondering the possibility of simulating black holes in the laboratory by means of various "analog models". These analog models,      
+typically based on condensed matter physics, can be used to help us understand general relativity (Einstein's gravity); conversely, abstract techniques        
+developed in general relativity can sometimes be used to help us understand certain aspects of condensed matter physics. This book contains 13 chapters -      
+written by experts in general relativity, particle physics, and condensed matter physics - that explore various aspects of this two-way traffic."--Jacket.\    
+\
+TOC: Introduction and survey / Matt Visser -- Acoustic black holes in dilute Bose-Einstein condensates / Luis Garay -- Slow light / Ulf Leonhardt -- Black     
+hole and baby universe in a thin film of [superscript 3]He-A / Ted Jacobson and Tatsuhiko Koike -- Measurability of dumb hole radiation? / William Unruh --    
+Effective gravity and quantum vacuum in superfluids / Grigori Volovik -- Emergent relativity and the physics of black hole horizons / George Chapline, Robert  
+Laughlin and David Santiago -- Quasi-gravity in branes / Brandon Carter -- Towards a collective treatment of quantum gravitational interactions / Renaud       
+Parentani -- Role of sonic metric in relativistic superfluid / Brandon Carter.                                                                                 
+
+⏺ I'll catalogue this book using the full LCSH workflow. Starting with conceptual analysis.
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Conceptual Analysis
+
+  Bibliographic Examination
+
+  ┌──────────────┬─────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Feature    │                                         Observation                                         │
+  ├──────────────┼─────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Title        │ Directly descriptive: simulated/analog black holes                                          │
+  ├──────────────┼─────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract     │ Two-way traffic between general relativity and condensed matter via analog models           │
+  ├──────────────┼─────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ TOC          │ Chapters on acoustic analogs, slow light, superfluid analogs, brane models, quantum gravity │
+  ├──────────────┼─────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Contributors │ Experts in GR, particle physics, condensed matter (Visser, Unruh, Volovik, Jacobson, etc.)  │
+  └──────────────┴─────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Wilson's Methods
+
+  - Purposive: Explore laboratory simulation of black holes through condensed matter analog models; demonstrate bidirectional insights between GR and condensed
+   matter
+  - Figure-Ground: Central figure is analog models of gravity ("artificial black holes")
+  - Objective: Most frequent concepts: black holes, analog models, superfluids, general relativity, condensed matter, Hawking radiation
+  - Cohesion: All chapters unified by phenomena that simulate or illuminate black hole physics through non-gravitational systems
+
+  Langridge's Questions
+
+  - Q1 (What IS it?): Natural science; edited collection of research chapters; advanced level
+  - Q2 (What is it ABOUT?): Analog models of black holes using condensed matter systems
+  - Q3 (What is it FOR?): Researchers and advanced students in theoretical/condensed matter physics
+
+  Concepts Identified
+
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Discipline    │ Physics (theoretical, condensed matter, gravitational)                                                                                  │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Analog models of gravity, black holes, Hawking radiation, general relativity, condensed matter, superfluidity, Bose-Einstein            │
+  │               │ condensation, quantum gravity                                                                                                           │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ No named entities as subjects (contributors are authors, not subjects)                                                                  │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ None specific                                                                                                                           │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Form/Genre    │ Essays (edited collection of contributed chapters)                                                                                      │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Aboutness Statement
+
+  ▎ This physics resource is an edited collection of research-level chapters exploring analog models of black holes — systems in condensed matter physics
+  (superfluids, Bose-Einstein condensates, slow light) that simulate aspects of black hole physics in laboratory settings. The central theme is the
+  bidirectional intellectual exchange between general relativity and condensed matter physics: analog models help test predictions such as Hawking radiation,
+  while general relativity techniques illuminate condensed matter phenomena. Intended for researchers and advanced students in theoretical and condensed matter
+   physics.
+
+  Now applying quantitative filtering.
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering (SHM H 180)
+
+  Step 1: 20% Rule
+
+  With 13 chapters, the 20% threshold ≈ 3 chapters.
+
+  ┌────────────────────────────┬─────────────────────────────────────────────────────────────────────┬────────────────┐
+  │          Concept           │                         Estimated Coverage                          │   Meets 20%?   │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Analog models of gravity   │ All chapters (central concept)                                      │ Yes            │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Black holes                │ All chapters (the phenomena simulated)                              │ Yes            │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ General relativity         │ Pervasive framework                                                 │ Yes            │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Condensed matter           │ Pervasive framework                                                 │ Yes            │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Superfluidity              │ 3+ chapters (He-3 film, superfluids, relativistic superfluid) ≈ 23% │ Yes            │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Hawking radiation          │ 1 dedicated + discussed in several others ≈ 20%                     │ Borderline yes │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Bose-Einstein condensation │ 1 chapter ≈ 8%                                                      │ No — dropped   │
+  ├────────────────────────────┼─────────────────────────────────────────────────────────────────────┼────────────────┤
+  │ Quantum gravity            │ 1–2 chapters ≈ 8–15%                                                │ No — dropped   │
+  └────────────────────────────┴─────────────────────────────────────────────────────────────────────┴────────────────┘
+
+  No named entity exceptions apply (contributors are authors, not subjects).
+
+  Step 3: Specificity
+
+  - "Analog models of gravity" + "Black holes" form a compound concept — may need multiple headings if no single heading captures "analog models of black
+  holes" (sec. M)
+  - Superfluidity is more specific than condensed matter; both warranted since the book discusses condensed matter broadly, not only superfluids (sec. I:
+  general topic with emphasis on subtopic)
+
+  Step 4: Depth of Indexing
+
+  - BEC and slow light are subsumed under the broader condensed matter treatment
+  - Superfluidity is not subsumed — it's specifically prominent enough for its own heading
+
+  Step 5: Rule of Three
+
+  Condensed matter subtopics (superfluids, BEC, slow light) = 3, but only superfluidity meets 20% individually. No broad-heading substitution triggered.
+
+  Recommended Headings for Authority Validation
+
+  Ordered by predominance (H 80):
+
+  1. Black holes (Astronomy) — primary subject
+  2. Analogy (Physics) — or equivalent for the analog model methodology
+  3. Hawking radiation — specific phenomenon of focus
+  4. General relativity (Physics) — disciplinary framework
+  5. Condensed matter — disciplinary framework
+  6. Superfluidity — dominant analog system
+
+  LCGFT (J 110)
+
+  - Essays — edited collection of contributed research chapters
+
+  ---
+  Now validating these headings against LC authority files.
+
+⏺ Skill(lc-authority)
+  ⎿  Successfully loaded skill
+
+⏺ I'll validate each heading against the appropriate LC authority file. Let me run the searches.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Black holes (Astronomy)" --check)
+  ⎿  {
+       "Black holes (Astronomy)": {
+         "authorized_heading": "Black holes (Astronomy)",
+     … +22 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Analogy (Physics)" --check)
+  ⎿  {
+       "Analogy (Physics)": {
+         "authorized_heading": "Analogy",
+     … +15 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Hawking radiation" --check)
+  ⎿  {
+       "Hawking radiation": null
+     }
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "General relativity (Physics)" --check)
+  ⎿  {
+       "General relativity (Physics)": {
+         "authorized_heading": "General relativity (Physics)",
+     … +25 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Condensed matter" --check)
+  ⎿  {
+       "Condensed matter": {
+         "authorized_heading": "Condensed matter",
+     … +27 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Superfluidity" --check)
+  ⎿  {
+       "Superfluidity": {
+         "authorized_heading": "Superfluidity",
+     … +23 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Essays" -a genreforms --check)
+  ⎿  {
+       "Essays": {
+         "authorized_heading": "Essays",
+     … +17 lines (ctrl+o to expand)
+
+⏺ Two headings need alternatives. "Hawking radiation" returned null and "Analogy (Physics)" isn't established. Let me search for alternatives.
+
+⏺ Bash(python3 tfidf_search.py "Hawking radiation" --top 5)
+  ⎿  [
+       {
+         "heading": "Hawking",
+     … +58 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "analog models physics" --top 5)
+  ⎿  [
+       {
+         "heading": "Analogy",
+     … +50 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Black holes (Astronomy)" --top 10)
+  ⎿  [
+       {
+         "heading": "Black holes (Astronomy)",
+     … +53 lines (ctrl+o to expand)
+
+⏺ Let me search for alternative headings for the two that weren't found.
+
+⏺ Bash(python3 tfidf_search.py "black hole evaporation" --top 5)
+  ⎿  [
+       {
+         "heading": "Evaporation",
+     … +56 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "physical analog" --top 5)
+  ⎿  [
+       {
+         "heading": "Analogy",
+     … +50 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "simulation methods physics" --top 5)
+  ⎿  [
+       {
+         "heading": "Simulation methods",
+     … +45 lines (ctrl+o to expand)
+
+⏺ Bash(python3 tfidf_search.py "Mathematical models" --check)
+  ⎿  {
+       "Mathematical models": {
+         "authorized_heading": "Mathematical models",
+     … +14 lines (ctrl+o to expand)
+
+⏺ Authority Validation Results                  
+                                                                                                                                  
+  ┌──────────────────────────┬───────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────┐ 
+  │         Heading          │    Status     │                                                   Notes                                                    │ 
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Black holes (Astronomy)  │ Authorized    │ Exact match. No geo subdivision.                                                                           │    
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤ 
+  │ Analogy (Physics)        │ Not           │ Only general "Analogy" exists. "Simulation methods" available as subdivision (180 $x) but implies computer │    
+  │                          │ established   │  simulation, not physical analogy.                                                                         │  
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ Hawking radiation        │ Not in LCSH   │ No match found. Subsumed under Black holes (Astronomy).                                                    │    
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ General relativity       │ Authorized    │ Exact match. No geo subdivision.                                                                           │    
+  │ (Physics)                │               │                                                                                                            │  
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ Condensed matter         │ Authorized    │ Exact match. No geo subdivision.                                                                           │  
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ Superfluidity            │ Authorized    │ Exact match. No geo subdivision.                                                                           │  
+  ├──────────────────────────┼───────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────┤    
+  │ Essays (LCGFT)           │ Authorized    │ Exact match.                                                                                               │  
+  └──────────────────────────┴───────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────┘    
+                                                                                                                                                             
+  Decisions:                                                                                                                                                   
+  - Drop Hawking radiation — not established; subsumed under Black holes (depth of indexing)                                                                 
+  - Drop Analogy (Physics) — not established; the analog-model concept is implicitly conveyed by the combination of Black holes + Condensed matter +           
+  Superfluidity                                                                                                                                              
+  - The remaining 4 authorized subject headings adequately represent the work's aboutness                                                                      
+                                                                                                                                                             
+  Now generating the final MARC 6XX fields.                                                                                                                    
+                                                                                                                                                             
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                  
+  ⎿  Successfully loaded skill                                                                                                                                 
+                                                                                                                                                               
+⏺ Final MARC 21 Subject Access Fields                                                                                                                          
+                                                                                                                                                             
+  Applying H 1075 subfield order and H 80 predominance ordering. All headings are simple topical subjects with no subdivisions required.                       
+                                                                                                                                                             
+  Quality Checklist                                                                                                                                            
+                                                                                                                                                               
+  - Correct tags: topical → 650, genre/form → 655                                                                                                              
+  - Indicators: 650 ind1=blank, ind2=0 (LCSH); 655 ind1=blank, ind2=7                                                                                          
+  - No $v form subdivisions — LCGFT in 655 per H 1075 sec. C.4                                                                                                 
+  - No geographic subdivisions (none authorized for these headings)                                                                                          
+  - LCGFT term not subdivided (J 110 sec. 7)                                                                                                                   
+  - 655 fields placed after all subject heading fields                                                                                                         
+  - Ordered by predominance (H 80)                                                                                                                             
+                                                                                                                                                               
+  ---                                                                                                                                                          
+  MARC Output                                                                                                                                                  
+                                                                                                                                                               
+  650 #0 $aBlack holes (Astronomy)                                                                                                                             
+  650 #0 $aGeneral relativity (Physics)                                                                                                                        
+  650 #0 $aCondensed matter.                                                                                                                                 
+  650 #0 $aSuperfluidity.                                                                                                                                      
+  655 #7 $aEssays.$2lcgft                                                                                                                                    
+                                                                                                                                                               
+  Heading Justification                                           
+                                                                                                                                                               
+  ┌───────┬──────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────┐                
+  │ Field │           Heading            │                                             Rationale                                              │              
+  ├───────┼──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ 650   │ Black holes (Astronomy)      │ Primary subject — all chapters concern simulating/modeling black holes                             │
+  ├───────┼──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ 650   │ General relativity (Physics) │ Pervasive framework — one side of the "two-way traffic" described in abstract                      │
+  ├───────┼──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────┤              
+  │ 650   │ Condensed matter             │ Pervasive framework — the analog systems (superfluids, BEC, slow light) are condensed matter       │                
+  ├───────┼──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ 650   │ Superfluidity                │ Dominant analog system — appears in 3+ of 13 chapters (He-3, superfluids, relativistic superfluid) │                
+  ├───────┼──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────┤                
+  │ 655   │ Essays                       │ Edited collection of contributed research chapters by multiple authors                             │              
+  └───────┴──────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────┘                
+                                                                                                                                                             
+  Headings Not Assigned                                                                                                                                        
+                                                                                                                                                             
+  ┌──────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │        Candidate         │                                                           Reason                                                            │ 
+  ├──────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Hawking radiation        │ Not established in LCSH; subsumed under Black holes (Astronomy) per depth of indexing (H 180 sec. H)                        │
+  ├──────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Analogy (Physics)        │ Not established; only general "Analogy" exists. Analog-model concept conveyed by the combination of Black holes + Condensed │
+  │                          │  matter headings                                                                                                            │ 
+  ├──────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Bose-Einstein            │ Below 20% threshold (1/13 chapters ≈ 8%)                                                                                    │   
+  │ condensation             │                                                                                                                             │   
+  ├──────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Quantum gravity          │ Below 20% threshold (1–2/13 chapters ≈ 8–15%)                                                                               │ 
+  └──────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘   
+                                                                                                                                                             
+
+                                         

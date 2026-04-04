@@ -1,0 +1,343 @@
+❯ Title: The color line and the assembly line : managing race in the Ford empire /\                                                                              
+\
+Abstract: "The Color Line and the Assembly Line tells a new story of the impact of mass production on society. Global corporations based originally in the     
+United States have played a part in making gender and race everywhere. Focusing on Ford Motor Company's rise to become the largest, richest, and most          
+influential corporation in the world, The Color Line and the Assembly Line takes on the traditional story of Fordism. Contrary to popular thought, the         
+assembly line was perfectly compatible with all manner of racial practice in the United States, Brazil, and South Africa. Each country's distinct racial       
+hierarchies in the 1920s and 1930s informed Ford's often divisive labor processes. Confirming racism as an essential component in the creation of global       
+capitalism, Elizabeth Esch also adds an important new lesson showing how local patterns gave capitalism its distinctive features"--Provided by publisher.\     
+\
+TOC: Introduction : the color line and the assembly line -- Ford goes to the world, the world comes to Ford -- From the melting pot to the boiling pot :       
+fascism and the factory-state at the River Rouge plant in the 1920s -- Out of the melting pot and into the fire : African Americans and the uneven Ford empire 
+ at home -- Breeding rubber, breeding workers : from Fordlandia to Belterra -- 'Work in the factory itself' : Fordism, South Africanism and poor white reform  
+-- Conclusion : from the one best way to the way forward to one Ford : still uneven, still unequal.                                                            
+
+⏺ I'll start the cataloging workflow. First, let me perform conceptual analysis on this book.
+
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill
+
+⏺ Conceptual Analysis
+
+  Phase 1–2: Examination & Methods
+
+  Purposive Method: The author's intent is to reframe the narrative of Fordism by demonstrating that mass production was not racially neutral—it actively
+  incorporated and depended on local racial hierarchies. Esch argues racism was an essential component in the creation of global capitalism.
+
+  Figure-Ground: The central figure is the intersection of race and industrial labor within Ford Motor Company, used as a case study for the broader argument
+  about race and capitalism.
+
+  Objective Method: Most frequently referenced concepts: race/racism, Ford Motor Company/Fordism, mass production/labor, United States/Brazil/South Africa,
+  1920s–1930s, capitalism, African Americans.
+
+  Cohesion Method: The unifying principle is Ford operations across three countries with distinct racial systems, all showing the same pattern—racial
+  management integral to industrial capitalism.
+
+  Langridge Q1 (What IS it?): Human science / social science — labor history and race studies. Scholarly monograph.
+  Langridge Q2 (What is it ABOUT?): Race and industrial labor at Ford Motor Company across three nations.
+  Langridge Q3 (What is it FOR?): Academic audience in labor history, African American studies, race studies, history of capitalism. Advanced level.
+
+  Phase 3: Identified Concepts
+
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │   Category    │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Discipline    │ Labor history, race studies, history of capitalism                                                                                      │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Race discrimination in employment; Fordism/mass production and its social dimensions; racial hierarchies and labor; automobile industry │
+  │               │  workers; racism and capitalism                                                                                                         │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Names         │ Ford Motor Company (corporate body); African Americans (group); River Rouge Plant; Fordlandia; Belterra                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Geographic    │ United States; Brazil; South Africa                                                                                                     │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chronological │ 1920s–1930s                                                                                                                             │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Form/Genre    │ History; Case studies                                                                                                                   │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Phase 4: Aboutness Statement
+
+  ▎ This labor history monograph examines how Ford Motor Company incorporated and managed racial hierarchies within its global operations during the 1920s and
+  1930s. Focusing on Ford's factories and plantations in the United States, Brazil, and South Africa, the work argues that racism was an essential component of
+   mass production and global capitalism. The book examines African American workers at the River Rouge plant, rubber plantation laborers at Fordlandia and
+  Belterra in Brazil, and poor white reform programs in South Africa. Intended for an academic audience in labor history, race studies, and the history of
+  capitalism.
+
+  ---
+  Now let me apply quantitative filtering to determine which concepts merit headings.
+
+⏺ Skill(lcsh-quantitative-filtering)
+  ⎿  Successfully loaded skill
+
+⏺ Quantitative Filtering Results
+
+  Step 1: 20% Rule (6 substantive chapters; 20% ≈ 1.2 chapters)
+
+  ┌────────────────────────────────────────────┬────────────────────────────────────────────┬───────────────────────────────────────────────────────┐
+  │                  Concept                   │                  Coverage                  │                      Passes 20%?                      │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Race discrimination in employment          │ All chapters (~100%)                       │ YES                                                   │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Ford Motor Company — Employees             │ All chapters (100%)                        │ YES                                                   │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Fordism / Mass production — Social aspects │ Throughout as framework (~60–80%)          │ YES                                                   │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Racism — Economic aspects                  │ Central thesis (~80%)                      │ YES                                                   │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ African Americans — Employment             │ Ch 3 + discussion elsewhere (~25–30%)      │ YES                                                   │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Automobile industry and trade — Employees  │ Broader context, but book is Ford-specific │ NO — too broad per specificity (Step 3)               │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ River Rouge Plant                          │ ~1 chapter (~17%)                          │ NO — named entity but not critical to work as a whole │
+  ├────────────────────────────────────────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Fordlandia / Belterra                      │ ~1 chapter (~17%)                          │ NO — same reasoning                                   │
+  └────────────────────────────────────────────┴────────────────────────────────────────────┴───────────────────────────────────────────────────────┘
+
+  Step 2: Ordering by Predominance (H 80)
+
+  The predominant topic requires two headings together to express: Ford Motor Company — Employees (the corporate subject) + Race discrimination in employment
+  (the racial dimension). These should be assigned first.
+
+  Step 3: Specificity Check
+
+  - "Automobile industry and trade — Employees" is broader than "Ford Motor Company — Employees" — drop in favor of the specific corporate heading.
+  - "Race discrimination in employment" is more specific than "Race relations" — keep the specific form.
+  - "Racism — Economic aspects" captures the broader capitalism thesis not covered by the employment-specific heading — keep both per H 180 sec. I (general
+  topic with subtopic).
+
+  Step 5: Rule of Three — Geographic
+
+  Three countries (US, Brazil, South Africa) each at ~20%+ → assign specific geographic headings for each, not a general heading.
+
+  Step 7: Encompassing Heading Check (Sec. J)
+
+  No single heading encompasses "race discrimination in employment" + "racism — economic aspects" without including unrelated topics. Both retained.
+
+  Filtered Candidate Headings (ordered by predominance)
+
+  1. Ford Motor Company — Employees — corporate body subject, predominant (100%)
+  2. Race discrimination in employment — core theme (100%), with geographic subdivisions for United States, Brazil, South Africa
+  3. Racism — Economic aspects — central thesis about capitalism (80%)
+  4. African Americans — Employment — named group, specific treatment (~25–30%)
+  5. Fordism (if authorized) or Mass production — Social aspects — conceptual framework (~60–80%)
+
+  Geographic Aspects (for subdivisions)
+
+  - United States (~50–60%)
+  - Brazil (~20%)
+  - South Africa (~20%)
+
+  Chronological Aspect
+
+  - 20th century (1920s–1930s)
+
+  LCGFT Candidates
+
+  - History (if valid LCGFT term)
+  - Case studies (if valid LCGFT term)
+
+  Concepts Filtered Out
+
+  ┌───────────────────────────────────────────┬───────────────────────────────────────────────────────┐
+  │                  Concept                  │                        Reason                         │
+  ├───────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Automobile industry and trade — Employees │ Too broad; Ford Motor Company is more specific        │
+  ├───────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ River Rouge Plant                         │ <20%, not critical to work as a whole                 │
+  ├───────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Fordlandia / Belterra                     │ <20%, not critical to work as a whole                 │
+  ├───────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Capitalism (general)                      │ Subsumed by more specific "Racism — Economic aspects" │
+  └───────────────────────────────────────────┴───────────────────────────────────────────────────────┘
+
+  ---
+  Now I need to validate these headings against the LC authority files. Let me check them.
+
+⏺ Skill(lc-authority)
+  ⎿  Successfully loaded skill
+
+⏺ I'll validate all candidate headings against LC authority files. Let me run the checks in parallel.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Race discrimination in employment" --check)
+  ⎿  {
+       "Race discrimination in employment": {
+         "authorized_heading": "Discrimination in employment",
+     … +20 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Racism -- Economic aspects" --check)
+  ⎿  {
+       "Racism -- Economic aspects": null
+     }
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "African Americans -- Employment" --check)
+  ⎿  {            
+       "African Americans -- Employment": {
+         "authorized_heading": "African Americans--Employment",                                                            
+     … +12 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Fordism" --check)                          
+  ⎿  {            
+       "Fordism": {
+         "authorized_heading": "Fordism",                                                                                                            
+     … +14 lines (ctrl+o to expand)
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Mass production -- Social aspects" --check)
+  ⎿  {            
+       "Mass production -- Social aspects": null
+     }                                                                                                                                         
+             
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "History" -a genreforms --check)
+  ⎿  {                                                                                                                                         
+       "History": {                                                                                                               
+         "authorized_heading": "Historical radio programs",                                                                                   
+     … +14 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Case studies" -a genreforms --check)                 
+  ⎿  {                                                                                                                                                         
+       "Case studies": {                                                                                                                                       
+         "authorized_heading": "Case studies",                                                                                                                 
+     … +20 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Ford Motor Company" -a names --check)                
+  ⎿  {                                                                                                                                                         
+       "Ford Motor Company": {                                                                                                                                 
+         "heading": "Ford Motor Company",                                                                                                                      
+     … +16 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Some headings need follow-up. "Racism -- Economic aspects" and "Mass production -- Social aspects" weren't found. Let me check alternatives.                 
+                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Racism" --check)                                                                                                               
+  ⎿  {                                                                                                                                                         
+       "Racism": {
+         "authorized_heading": "Racism",                                                                                                                       
+     … +25 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Racism Economic aspects" --top 5)                                                                                              
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Racism--Religious aspects",                                                                                                               
+     … +56 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Mass production" --check)                                                                                                      
+  ⎿  {                                                                                                                            
+       "Mass production": {                                                                                                                                    
+         "authorized_heading": "Mass production",                                                                                                              
+     … +17 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Race discrimination" --top 5)                                                                                                  
+  ⎿  [                                                                                                                                                         
+       {                                                                                                                                                       
+         "heading": "Race discrimination",                                                                                                                     
+     … +59 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Automobile industry workers" --top 5)                                                                                          
+  ⎿  [                                                                                                                                                         
+       {                                                                                                                                                       
+         "heading": "Automobile industry workers",                                                                                                             
+     … +56 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Let me check a couple more options.                                                                                                                          
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Capitalism and racism" --top 3)                                                                                                
+  ⎿  [                                                                                                                                                         
+       {                                                          
+         "heading": "Racism",                                                                                                                                  
+     … +57 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Rubber plantation workers" --top 3)                                                                                            
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Rubber plantation workers",                                                                                                               
+     … +45 lines (ctrl+o to expand)                                                                                                                            
+                                                                                                                                                               
+⏺ Authority Validation Summary                                                                                                                                 
+                                                                                                                                                               
+  ┌───────────────────────────────────┬───────────────────────────────────┬───────────────────────────────┬─────────────┐                                      
+  │             Candidate             │              Status               │        Authorized Form        │ Geo Subdiv? │                                      
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤
+  │ Ford Motor Company                │ AUTHORIZED (LCNAF)                │ Ford Motor Company            │ N/A         │                                      
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤
+  │ Race discrimination in employment │ UF → Discrimination in employment │ Discrimination in employment  │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤
+  │ Race discrimination               │ AUTHORIZED                        │ Race discrimination           │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤
+  │ Racism                            │ AUTHORIZED                        │ Racism                        │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ Racism -- Economic aspects        │ Not found (pre-coord.)            │ Use Racism as base            │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ African Americans -- Employment   │ AUTHORIZED                        │ African Americans--Employment │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ Fordism                           │ AUTHORIZED                        │ Fordism                       │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ Mass production -- Social aspects │ Not found (pre-coord.)            │ Mass production (base only)   │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ Automobile industry workers       │ AUTHORIZED                        │ Automobile industry workers   │ Yes         │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ History (LCGFT)                   │ NOT a valid LCGFT term            │ —                             │ —           │
+  ├───────────────────────────────────┼───────────────────────────────────┼───────────────────────────────┼─────────────┤                                      
+  │ Case studies (LCGFT)              │ AUTHORIZED (LCGFT)                │ Case studies                  │ N/A         │
+  └───────────────────────────────────┴───────────────────────────────────┴───────────────────────────────┴─────────────┘                                      
+                                                                  
+  Key decisions:                                                                                                                                               
+  - Use "Race discrimination" (not "Discrimination in employment") to preserve racial specificity — the employment context is captured via Ford Motor Company
+  $xEmployees                                                                                                                                                  
+  - "Fordism" replaces "Mass production -- Social aspects" (more specific, authorized)
+  - Drop "History" LCGFT (not an authorized genre/form term)                                                                                                   
+  - Three countries each at ~20% → assign specific geographic headings per Rule of Three
+                                                                                                                                                               
+  ---                                                                                                                                                          
+  Now let me generate the final MARC 6XX fields.                                                                                                               
+                                                                                                                                                               
+⏺ Skill(marc-6xx-synthesizer)                                     
+  ⎿  Successfully loaded skill                                                                                                                                 
+                                                                  
+⏺ Final MARC 21 Subject Access Fields                                                                                                                          
+                                                                                                                                  
+  Based on the full workflow — conceptual analysis, quantitative filtering, and authority validation — here are the final subject access fields:               
+                                                                                                                                                               
+  610 20 $aFord Motor Company$xEmployees$xHistory$y20th century.
+  650  0 $aRace discrimination$zUnited States$xHistory$y20th century.                                                                                          
+  650  0 $aRace discrimination$zBrazil$xHistory$y20th century.                                                                                                 
+  650  0 $aRace discrimination$zSouth Africa$xHistory$y20th century.                                                                                           
+  650  0 $aAfrican Americans$xEmployment$xHistory$y20th century.                                                                                               
+  650  0 $aFordism$xHistory.                                                                                                                                   
+  655  7 $aCase studies.$2lcgft                                                                                                                                
+                                                                                                                                                               
+  Rationale                                                                                                                                                    
+   
+  ┌────────────────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │             Field              │                                                     Justification                                                     │
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ 610 Ford Motor Company         │ Predominant subject (100% of work). Corporate body in LCNAF (n80085248). $xEmployees captures labor focus; $xHistory  │
+  │ $xEmployees                    │ $y20th century for 1920s–30s period.                                                                                  │
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ 650 Race discrimination $z     │ Core theme (~50–60%). Authorized, may subdivide geographically. US is the primary geographic focus (chs. 1–3).        │
+  │ United States                  │                                                                                                                       │   
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 650 Race discrimination $z     │ ~20% (ch. 4, Fordlandia/Belterra). Meets 20% threshold.                                                               │   
+  │ Brazil                         │                                                                                                                       │   
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 650 Race discrimination $z     │ ~20% (ch. 5, poor white reform). Meets 20% threshold. Rule of Three: 3 countries → assign each specifically.          │   
+  │ South Africa                   │                                                                                                                       │   
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 650 African Americans $x       │ ~25–30% (ch. 3 + discussion elsewhere). Named group critical to the work. No $z needed — inherently US-focused.       │   
+  │ Employment                     │                                                                                                                       │   
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ 650 Fordism                    │ ~60–80% as conceptual framework. Authorized heading, more specific than "Mass production."                            │   
+  ├────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ 655 Case studies               │ LCGFT authorized. Comparative methodology across three country case studies. No "History" LCGFT assigned per J 110    │
+  │                                │ (historical studies have no identifiable genre/form).                                                                 │   
+  └────────────────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                                                                                                                               
+  Quality verification                                            
+
+  - Subfield order follows H 1075: $a → $z → $x → $y                                                                                                           
+  - No $v form subdivisions (2026 LCGFT practice)
+  - Geographic subdivision uses indirect method (H 830); US/Brazil/South Africa as countries go directly in $z                                                 
+  - Ordered by predominance (H 80): Ford Motor Company first, then race discrimination by coverage, then secondary topics                                      
+  - 655 placed after all subject fields                                                                                                                        
+  - 6 subject headings + 1 LCGFT = 7 total (within typical range)                                                                                              
+                                                                                                                                                               
+                                                                                                    
+                                                                                                                                                               

@@ -1,0 +1,322 @@
+❯  Title: All joking aside : American humor and its discontents /\
+\
+Abstract: "In this examination of stand-up comedy, Rebecca Krefting establishes a new genre of comedic production, "charged humor," and charts its pathways from production to consumption. Some jokes are tears in the fabric of our beliefs‚Äïthey challenge myths about how fair and democratic our society is and the behaviors and practices we enact to maintain those fictions. Jokes loaded with vitriol and delivered with verve, charged humor compels audiences to action, artfully summoning political critique. Since the institutionalization of stand-up comedy as a distinct cultural form, stand-up comics have leveraged charged humor to reveal social, political, and economic stratifications. All Joking Aside offers a history of charged comedy from the mid-twentieth century to the early aughts, highlighting dozens of talented comics from Dick Gregory and Robin Tyler to Micia Mosely and Hari Kondabolu. The popularity of charged humor has waxed and waned over the past sixty years. Indeed, the history of charged humor is a tale of intrigue and subversion featuring dive bars, public remonstrations, fickle audiences, movie stars turned politicians, commercial airlines, emergent technologies, neoliberal mind-sets, and a cavalcade of comic misfits with an ax to grind. Along the way, Krefting explores the fault lines in the modern economy of humor, why men are perceived to be funnier than women, the perplexing popularity of modern-day minstrelsy, and the way identities are packaged and sold in the marketplace. Appealing to anyone interested in the politics of humor and generating implications for the study of any form of popular entertainment, this history reflects on why we make the choices we do and the collective power of our consumptive practices. Readers will be delighted by the broad array of comic talent spotlighted in this book, and for those interested in comedy with substance, it will offer an alternative punchline"--amazon.com.\
+\
+TOC: Introduction: American humor and its discontents -- Making connections: building cultural citizenship through charged humor -- Twentieth-century stand-up: a history of charged humor -- Laughing into the new millennium -- When women perform charged humor: the (gendered) politics of consumption -- Robin Tyler: still 'working the crowd' -- Micia Mosely: humor out of the mouths of babes -- Hari Kondabolu: performing in the age of modern-day minstrelsy -- Conclusion: How to avoid the last laugh.\
+
+⏺ I'll catalogue this book following the full LCSH workflow. Let me start with conceptual analysis.
+                                                                                                                                  
+⏺ Skill(lcsh-conceptual-analysis)
+  ⎿  Successfully loaded skill                                                                                                                                 
+   
+⏺ Phase 1: Conceptual Analysis                                                                                                                                 
+                                                                                                                                                             
+  Bibliographic Examination                                                                                                                                    
+                                                                                                                                                               
+  ┌────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐  
+  │    Feature     │                                                                Findings                                                                │  
+  ├────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Title/subtitle │ "All joking aside" is idiomatic; "American humor and its discontents" clearly signals critical examination of American humor           │
+  ├────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Abstract       │ Establishes "charged humor" as a coined genre; traces history from mid-20th c. to early 2000s; explores political critique, gender,    │  
+  │                │ race, minstrelsy, cultural economy of humor                                                                                            │  
+  ├────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ TOC            │ 9 chapters: historical survey (ch. 2-4), gendered consumption (ch. 5), three comic profiles (ch. 6-8: Robin Tyler, Micia Mosely, Hari  │  
+  │                │ Kondabolu)                                                                                                                             │  
+  └────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                                                                                                                               
+  Wilson's Four Methods                                           
+
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐  
+  │    Method     │                                                                 Finding                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Purposive     │ Author's intent: establish "charged humor" as a genre of stand-up comedy that functions as political critique, and chart its history in │
+  │               │  the US                                                                                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Figure-Ground │ Central figure: stand-up comedy as a vehicle for social and political critique in America                                               │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Objective     │ Dominant terms: stand-up comedy, charged humor, political critique, social stratification, gender, minstrelsy, cultural citizenship     │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Cohesion      │ Unifying principle: comedy that challenges social/political norms and compels audiences toward awareness; selection rule excludes humor │
+  │               │  that merely entertains                                                                                                                 │  
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Langridge's Questions
+
+  ┌──────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐   
+  │       Question       │                                                             Answer                                                              │
+  ├──────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Q1: What IS it?      │ Scholarly criticism / Human science (cultural studies, performance studies)                                                     │
+  ├──────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Q2: What is it       │ Stand-up comedy as political/social critique in the US; gender and race in comedy; history of politically engaged comedy        │   
+  │ ABOUT?               │                                                                                                                                 │   
+  ├──────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤   
+  │ Q3: What is it FOR?  │ Academic audience in cultural studies, humor studies, performance studies; also general readers interested in substantive       │   
+  │                      │ comedy                                                                                                                          │
+  └──────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘   
+                                                                  
+  Concepts Identified
+
+  ┌───────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐  
+  │   Category    │                                                                Concepts                                                                 │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Discipline    │ Performing arts; Cultural studies; Sociology                                                                                            │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Topics        │ Stand-up comedy; Political aspects of comedy; Social aspects of comedy; Wit and humor—history; Gender and comedy; Race and comedy;      │  
+  │               │ Minstrel shows; Cultural citizenship                                                                                                    │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Names         │ Robin Tyler (dedicated ch.); Micia Mosely (dedicated ch.); Hari Kondabolu (dedicated ch.); Dick Gregory (mentioned)                     │  
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Chronological │ Mid-20th century to early 2000s                                                                                                         │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Geographic    │ United States                                                                                                                           │
+  ├───────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤  
+  │ Form/Genre    │ History; Criticism/interpretation                                                                                                       │
+  └───────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘  
+  
+  Aboutness Statement                                                                                                                                          
+                                                                  
+  ▎ This scholarly work examines stand-up comedy in the United States as a vehicle for political and social critique, establishing "charged humor" — comedy    
+  that challenges social norms and compels audiences toward political awareness. It traces the history of politically engaged stand-up from the mid-twentieth 
+  century to the early 2000s, exploring how comics reveal social, political, and economic stratifications. The book devotes individual chapters to gender      
+  dynamics in comedy, racial performance and modern minstrelsy, and profiles of comics Robin Tyler, Micia Mosely, and Hari Kondabolu.
+
+  ---
+  Now let me apply quantitative filtering to determine which concepts merit headings.
+                                                                                                                                                               
+⏺ Skill(lcsh-quantitative-filtering)      
+  ⎿  Successfully loaded skill                                                                                                                                 
+                                                                  
+⏺ Phase 2: Quantitative Filtering                                                                                                                              
+                                                                                                                                  
+  20% Rule Assessment                                                                                                                                          
+                                                                                                                                                               
+  With 7 substantive chapters, 20% threshold ≈ 1.4 chapters minimum.                                                                                           
+                                                                                                                                                               
+  ┌─────┬────────────────────────────┬─────────────────────────────────────────┬────────┬─────────────────────────────────────────────────────────────────┐    
+  │  #  │          Concept           │                Coverage                 │  20%   │                            Reasoning                            │  
+  │     │                            │                                         │  Met?  │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤  
+  │ 1   │ Stand-up comedy            │ Entire work (7/7 ch.)                   │ YES    │ Primary subject throughout                                      │
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤    
+  │ 2   │ Political aspects of       │ Central thesis (ch. 1-4, woven          │ YES    │ "Charged humor" = politically engaged comedy; core argument     │    
+  │     │ stand-up comedy            │ throughout)                             │        │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤    
+  │ 3   │ Social aspects of stand-up │ Throughout (ch. 2, 5, 8, + others)      │ YES    │ Cultural citizenship, identity, marketplace, stratification     │
+  │     │  comedy                    │                                         │        │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤
+  │ 4   │ History of stand-up comedy │ Ch. 1-4 historical survey (~57%)        │ YES    │ Explicit historical framework; title confirms                   │    
+  │     │  in US                     │                                         │        │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤
+  │ 5   │ Gender and comedy          │ Ch. 5 + ch. 6 (Robin Tyler is feminist  │ YES    │ Dedicated chapter + gender themes in Tyler chapter              │    
+  │     │                            │ comedian) (~29%)                        │        │                                                                 │
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤    
+  │ 6   │ Minstrel shows / race and  │ Ch. 8 primarily (~14%)                  │ NO     │ Below 20%; subsumed under social aspects                        │
+  │     │ comedy                     │                                         │        │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤
+  │ 7   │ Robin Tyler                │ Dedicated ch. 6 (~14%)                  │ YES    │ Named entity exception (H 180 sec. N.3) — dedicated chapter     │    
+  │     │                            │                                         │        │ makes her critical to the work                                  │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤
+  │ 8   │ Micia Mosely               │ Dedicated ch. 7 (~14%)                  │ YES    │ Named entity exception — dedicated chapter                      │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤    
+  │ 9   │ Hari Kondabolu             │ Dedicated ch. 8 (~14%)                  │ YES    │ Named entity exception — dedicated chapter                      │
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤    
+  │ 10  │ Dick Gregory               │ Mentioned in abstract, no dedicated     │ NO     │ Not critical to the work as a whole; one among "dozens" cited   │
+  │     │                            │ chapter                                 │        │                                                                 │    
+  ├─────┼────────────────────────────┼─────────────────────────────────────────┼────────┼─────────────────────────────────────────────────────────────────┤
+  │ 11  │ United States              │ Geographic scope throughout             │ —      │ Geographic aspect, not standalone topic; apply as $z            │    
+  │     │                            │                                         │        │ subdivision                                                     │    
+  └─────┴────────────────────────────┴─────────────────────────────────────────┴────────┴─────────────────────────────────────────────────────────────────┘
+                                                                                                                                                               
+  Rule of Three Check                                             
+
+  - Named comedians (Tyler, Mosely, Kondabolu): Exactly 3 subtopics with dedicated chapters. Per Rule of Three → assign specific headings for each (not a broad
+   "Comedians" heading).
+  - Political + social aspects: 2 distinct aspects → assign both.                                                                                              
+                                                                                                                                                               
+  Specificity Check (H 180 sec. G, O)                                                                                                                          
+                                                                                                                                                               
+  - Title says "American humor" broadly, but the work is specifically about stand-up comedy. Per sec. O: when title is general but work is specific, assign the
+   specific heading.                                              
+  - "Minstrel shows" subsumed under broader social aspects heading — depth of indexing (sec. H).                                                               
+                                                                                                                                                               
+  LCGFT Assessment (J 110)                                                                                                                                     
+                                                                                                                                                               
+  This is a scholarly critical history — a monograph analyzing stand-up comedy. Per J 110 example ("American crucible: race and nation in the twentieth century
+   — Historical study — no identifiable genre/form. No 655 assigned"), general scholarly/historical studies do not receive LCGFT. No 655 assigned.
+                                                                                                                                                               
+  Filtered Heading Candidates (ordered by predominance, H 80)                                                                                                  
+   
+  1. Stand-up comedy — Political aspects — United States — History                                                                                             
+  2. Stand-up comedy — Social aspects — United States             
+  3. Wit and humor — United States — History (title concept; broader context)                                                                                  
+  4. Women comedians — United States (gender chapter)                                                                                                          
+  5. Robin Tyler (named entity, 600 field)                                                                                                                     
+  6. Micia Mosely (named entity, 600 field)                                                                                                                    
+  7. Hari Kondabolu (named entity, 600 field)                                                                                                                  
+                                                                                                                                                               
+  7 headings total — within LC typical range (1-10).                                                                                                           
+                                                                                                                                                               
+  ---                                                                                                                                                          
+  Now let me validate these against LC authority files. I'll check subjects and names in parallel.
+
+⏺ Bash(cd /Users/eric/Desktop/AGENTS/lcsh/.claude/skills/lc-authority/scripts && python3 tfidf_search.py "Stand-up comedy" --check 2>/dev/null)
+  ⎿  {                                                                                                                            
+       "Stand-up comedy": {       
+         "authorized_heading": "Stand-up comedy",                                                                                                              
+     … +15 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Stand-up comedy--Political aspects" --check 2>/dev/null)                                                                       
+  ⎿  {                                                                                                                                                         
+       "Stand-up comedy--Political aspects": {                                                                                                                 
+         "authorized_heading": "Stand-up comedy",                                                                                                              
+     … +15 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Stand-up comedy--Social aspects" --check 2>/dev/null)                                                                          
+  ⎿  {                                                                                                                                                         
+       "Stand-up comedy--Social aspects": {                                                                                                                    
+         "authorized_heading": "Stand-up comedy",                                                                                                              
+     … +15 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Let me check the remaining subject headings and search for the correct subdivision patterns.                                                                 
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Wit and humor" --check 2>/dev/null)                                                                                            
+  ⎿  {                                                                                                                                                         
+       "Wit and humor": {                                         
+         "authorized_heading": "Wit and humor",                                                                                                                
+     … +34 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "American wit and humor" --check 2>/dev/null)                                                                                   
+  ⎿  {                                                                                                                                                         
+       "American wit and humor": {                                                                                                                             
+         "authorized_heading": "American wit and humor",                                                                                                       
+     … +26 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "American wit and humor--History and criticism" --check 2>/dev/null)                                                            
+  ⎿  {                                                                                                                                                         
+       "American wit and humor--History and criticism": {                                                                                                      
+         "authorized_heading": "American wit and humor--History and criticism",                                                                                
+     … +12 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Women comedians" --check 2>/dev/null)                                                                                          
+  ⎿  {                                                                                                                                                         
+       "Women comedians": {                                                                                                                                    
+         "authorized_heading": "Women comedians",                                                                                                              
+     … +19 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Comedians" --check 2>/dev/null)                                                                                                
+  ⎿  {                                                                                                                                                         
+       "Comedians": {                                                                                                                                          
+         "authorized_heading": "Comedians",                                                                                                                    
+     … +23 lines (ctrl+o to expand)                                                                                                                          
+                                                                                                                                                               
+⏺ Now let me check the name authorities for the three comedians.                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Tyler, Robin" -a names 2>/dev/null)                                                                                            
+  ⎿  [                                                                                                                                                         
+       {                                                          
+         "heading": "Tyler, Robin",                                                                                                                            
+     … +14 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Mosely, Micia" -a names 2>/dev/null)                                                                                           
+  ⎿  []                                                                                                                           
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Kondabolu, Hari" -a names 2>/dev/null)                                                                                         
+  ⎿  [                                                                                                                            
+       {                                                                                                                                                       
+         "heading": "Kondabolu, Hari",                                                                                                                         
+     … +14 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Mosely, Micia" -a names --top 5 2>/dev/null)                                                                                   
+  ⎿  []                                                                                                                           
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Moseley, Micia" -a names --top 5 2>/dev/null)                                                                                  
+  ⎿  []                                                                                                                           
+                                                                                                                                                               
+⏺ Let me check a few more potential headings before synthesizing MARC fields.                                                                                  
+                                                                                                                                  
+⏺ Bash(python3 tfidf_search.py "Stand-up comedy--United States" --check 2>/dev/null)                                                                           
+  ⎿  {                                                                                                                                                         
+       "Stand-up comedy--United States": {
+         "authorized_heading": "Stand-up comedy",                                                                                                              
+     … +15 lines (ctrl+o to expand)                                                                                                                          
+                                                                                                                                                               
+⏺ Bash(python3 tfidf_search.py "Wit and humor--Political aspects" --check 2>/dev/null)                                                                         
+  ⎿  {                                                                                                                                                         
+       "Wit and humor--Political aspects": {                                                                                                                   
+         "authorized_heading": "Wit and humor--Religious aspects",                                                                                             
+     … +16 lines (ctrl+o to expand)                                                                                               
+                                                                                                                                                               
+⏺ Phase 3: Authority Validation Summary                                                                                                                        
+                                                                                                                                                               
+  ┌───────────────────────────────────────────────┬───────────┬─────────────────────────────────────────────┐                                                  
+  │                    Heading                    │ Authority │                   Status                    │                                                  
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤
+  │ Stand-up comedy                               │ LCSH      │ Authorized (may subdivide geographically)   │                                                  
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤
+  │ Political aspects (free-floating $x)          │ LCSH      │ Valid free-floating subdivision             │                                                  
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Social aspects (free-floating $x)             │ LCSH      │ Valid free-floating subdivision             │                                                  
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ American wit and humor--History and criticism │ LCSH      │ Authorized (pre-coordinated)                │
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Women comedians                               │ LCSH      │ Authorized (may subdivide geographically)   │
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Comedians                                     │ LCSH      │ Authorized (UF: Stand-up comedians)         │
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Tyler, Robin                                  │ LCNAF     │ Authorized (n97006567)                      │
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Kondabolu, Hari                               │ LCNAF     │ Authorized (no2015161388)                   │
+  ├───────────────────────────────────────────────┼───────────┼─────────────────────────────────────────────┤                                                  
+  │ Mosely, Micia                                 │ LCNAF     │ Not found — would need new authority record │
+  └───────────────────────────────────────────────┴───────────┴─────────────────────────────────────────────┘                                                  
+                                                                  
+  Now let me generate the final MARC 6xx fields.                                                                                                               
+                                                                  
+⏺ Skill(marc-6xx-synthesizer)                                                                                                                                  
+  ⎿  Successfully loaded skill                                                                                                    
+                                     
+⏺ Phase 4: MARC 21 Subject Access Fields                                                                                                                       
+                                                                                                                                  
+  Final MARC Output (ordered by predominance, H 80)                                                                                                            
+                                                                                                                                                               
+  650  0 $aStand-up comedy$zUnited States$xPolitical aspects.                                                                                                  
+  650  0 $aStand-up comedy$zUnited States$xSocial aspects.                                                                                                     
+  650  0 $aAmerican wit and humor$xHistory and criticism.                                                                                                      
+  650  0 $aWomen comedians$zUnited States.                                                                                                                     
+  600 10 $aTyler, Robin.                                                                                                                                       
+  600 10 $aKondabolu, Hari.                                                                                                                                    
+                                                                                                                                                               
+  Field-by-Field Justification                                    
+                                                                                                                                                               
+  ┌───────────────────────────────────────────┬──────────────────────────────────────────────────────────────┬────────────────────────────────────────────┐    
+  │                   Field                   │                        Justification                         │            Reverse reading test            │
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤    
+  │ 650 Stand-up comedy$zUnited               │ Predominant topic: charged humor as political critique       │ "Political aspects of stand-up comedy in   │
+  │ States$xPolitical aspects.                │ (central thesis, throughout)                                 │ the United States"                         │
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤
+  │ 650 Stand-up comedy$zUnited               │ Social stratification, cultural citizenship, identity        │ "Social aspects of stand-up comedy in the  │
+  │ States$xSocial aspects.                   │ marketplace (throughout)                                     │ United States"                             │    
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤
+  │ 650 American wit and humor$xHistory and   │ Title concept + historical survey framework; pre-coordinated │ "History and criticism of American wit and │    
+  │ criticism.                                │  authorized heading                                          │  humor"                                    │    
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤
+  │ 650 Women comedians$zUnited States.       │ Dedicated chapter on gendered politics of comedy (ch. 5) +   │ "Women comedians in the United States"     │    
+  │                                           │ Tyler chapter                                                │                                            │    
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤
+  │ 600 Tyler, Robin.                         │ LCNAF n97006567; dedicated chapter 6 (named entity           │ —                                          │    
+  │                                           │ exception)                                                   │                                            │    
+  ├───────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼────────────────────────────────────────────┤
+  │ 600 Kondabolu, Hari.                      │ LCNAF no2015161388; dedicated chapter 8 (named entity        │ —                                          │    
+  │                                           │ exception)                                                   │                                            │    
+  └───────────────────────────────────────────┴──────────────────────────────────────────────────────────────┴────────────────────────────────────────────┘
+                                                                                                                                                               
+  Notes                                                                                                                                                        
+   
+  - Micia Mosely (dedicated ch. 7): Not in LCNAF. Would require a new NACO authority record to assign a 600 field. Recommend flagging for authority work.      
+  - Dick Gregory: Mentioned in abstract but no dedicated chapter; does not meet 20% rule or named entity exception.                                          
+  - No 655 (LCGFT): This is a scholarly historical/critical study with no identifiable genre/form per J 110.                                                   
+  - No $v subdivisions: Compliant with 2026 LC practice (H 1075 sec. C.4).                                                                                     
+  - Subfield order: $a → $z → $x per H 1075 D.2 (main heading authorized for geographic subdivision; $z placed after $a).                                      
+                                                                                                                                                               
+       
